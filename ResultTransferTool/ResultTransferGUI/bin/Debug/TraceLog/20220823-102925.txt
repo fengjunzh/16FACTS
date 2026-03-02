@@ -1,0 +1,11 @@
+Trace start......
+8/23/2022 10:29:26 AM: GUI [Info] -> Result folder is C:\Users\fenzhang\OneDrive - CommScope\Documents\01CATS\15SFP\SFP_Fiber\SFP_Fiber_Test\SFP_Fiber_Test\bin\Debug\TestData\.
+8/23/2022 10:29:26 AM: GUI [Info] -> Enable Insert SN
+8/23/2022 10:29:26 AM: GUI [Info] -> Local version is 5.9.
+8/23/2022 10:29:26 AM: GUI [Info] -> Server version is 5.9.
+8/23/2022 10:30:12 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+8/23/2022 10:30:12 AM: Controller [Warn] -> Can't find element (TestInstruments/Instrument) in result xml file.
+8/23/2022 10:30:12 AM: Controller [Warn] -> Can't find element (Traces) in result xml file.
+8/23/2022 10:30:13 AM: Controller [Warn] -> Can't find element (Traces) in result xml file.
+8/23/2022 10:31:59 AM: GUI [Error] -> Catch error -> Input string was not in a correct format.
+8/23/2022 10:32:01 AM: GUI [Warn] -> SQL Transfer Task Restart

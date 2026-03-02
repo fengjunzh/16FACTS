@@ -1,0 +1,8 @@
+Trace start......
+2/8/2023 9:30:58 AM: GUI [Info] -> Result folder is C:\Commscope\FACTS\TestData\.
+2/8/2023 9:30:58 AM: GUI [Info] -> Enable Insert SN
+2/8/2023 9:31:02 AM: GUI [Info] -> Local version is 1.1.
+2/8/2023 9:32:29 AM: GUI [Info] -> Server version is 1.1.
+2/8/2023 10:08:20 AM: GUI [Info] -> Local version is 1.1.
+2/8/2023 10:08:40 AM: GUI [Info] -> Server version is 1.1.
+2/8/2023 10:08:40 AM: GUI [Error] -> Catch error -> Result Format Version 1 is not supported

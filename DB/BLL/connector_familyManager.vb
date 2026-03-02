@@ -1,0 +1,69 @@
+﻿Public Class connector_familyManager
+	Private _dal As New FACTS.DAL.connector_familyService
+	Public Function Add(model As FACTS.Model.connector_family) As Boolean
+		Try
+			Return _dal.Add(model)
+		Catch ex As Exception
+			Throw New Exception("connector_family.BLL.Add()::" & ex.Message)
+		End Try
+	End Function
+
+
+	Public Function AddReturnId(model As FACTS.Model.connector_family) As Integer
+		Try
+			Return _dal.AddReturnId(model)
+		Catch ex As Exception
+			Throw New Exception("connector_family.BLL.AddReturnId()::" & ex.Message)
+		End Try
+	End Function
+
+
+	Public Function Delete(id As Integer) As Boolean
+		Try
+			Return _dal.Delete(id)
+		Catch ex As Exception
+			Throw New Exception("connector_family.DAL.Delete()::" & ex.Message)
+		End Try
+	End Function
+
+
+	Public Function Update(model As FACTS.Model.connector_family) As Boolean
+		Try
+			Return _dal.Update(model)
+		Catch ex As Exception
+			Throw New Exception("connector_family.BLL.Update()::" & ex.Message)
+		End Try
+	End Function
+
+
+	Public Function SelectAll() As List(Of FACTS.Model.connector_family)
+		Try
+			Return _dal.SelectAll()
+		Catch ex As Exception
+			Throw New Exception("connector_family.BLL.SelectAll()::" & ex.Message)
+		End Try
+	End Function
+
+
+	Public Function SelectById(id As Integer) As FACTS.Model.connector_family
+		Try
+			Return _dal.SelectById(id)
+		Catch ex As Exception
+			Throw New Exception("connector_family.BLL.SelectById()::" & ex.Message)
+		End Try
+	End Function
+	Public Function Select1500ByProduct(product_name As String) As FACTS.Model.connector_family
+		Try
+			Return _dal.Select1500ByProduct(product_name)
+		Catch ex As Exception
+			Throw New Exception("connector_family.BLL.Select1500ByProduct()::" & ex.Message)
+		End Try
+	End Function
+	Public Function Select1501ByProduct(product_name As String) As FACTS.Model.connector_family
+		Try
+			Return _dal.Select1501ByProduct(product_name)
+		Catch ex As Exception
+			Throw New Exception("connector_family.BLL.Select1501ByProduct()::" & ex.Message)
+		End Try
+	End Function
+End Class

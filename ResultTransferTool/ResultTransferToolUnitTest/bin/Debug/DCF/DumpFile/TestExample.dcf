@@ -1,0 +1,1007 @@
+EVENTSTART|1|2017110217020400|TEST|CSC||In_Antenna_Test|ASZ-2R61NX1|1||||In_Antenna_Test|||||EGZV5-65D-R6||ResultTransferToolTest|||||YES|||JD1036||
+PRODUCTMEASURE|1|Connect_To_Server||PASS||True|0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|PCB Serial Number||PASS||ETRN17290152|0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|Model||PASS||COMMRET2|0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|HWRev||PASS||4|0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|FWRev||PASS||000.050.045|0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|SW_BuildDate||PASS||Oct 27 2017 18:01:03|0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|FWRev_DownLoad1||PASS||000.050.045|0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|SW_BuildDate_Download1||PASS||Oct 27 2017 18:01:03|0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|FW_DOWNLOAD1||PASS|||0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|TIME_Firmware Check||PASS|||479.939||||||||||||||0|100000|Firmware Check|480||
+PRODUCTMEASURE|1|STATUS_Firmware Check||PASS|||0.000||||||||||||||0|0|Firmware Check|||
+PRODUCTMEASURE|1|Reset_All_Antenna_Tables_And_Data||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|Reset_Factory_Calibration_Band1||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|Reset_Factory_Calibration_Band2||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|Reset_Factory_Calibration_Band3||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|Reset_Factory_Calibration_Band4||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|Reset_Factory_Calibration_Band5||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|Reset_Factory_Calibration_Band6||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|Initialize_Lifetime_Movement_Counters||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|Initialize_Temporary_Movement_Counters||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|TIME_Reset Configuration And Calibration||PASS|||6.010||||||||||||||0|100000|Reset Configuration And Calibration|486||
+PRODUCTMEASURE|1|STATUS_Reset Configuration And Calibration||PASS|||0.000||||||||||||||0|0|Reset Configuration And Calibration|||
+PRODUCTMEASURE|1|Set Tilt Range 47||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Tilt Range 68||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Header||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Data1||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Table1||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Data2||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Table2||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Data3||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Table3||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Data4||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Table4||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Data5||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Table5||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Data6||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Set Antenna Table6||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|TIME_Set Antenna Configuration||PASS|||11.180||||||||||||||0|100000|Set Antenna Configuration|497||
+PRODUCTMEASURE|1|STATUS_Set Antenna Configuration||PASS|||0.000||||||||||||||0|0|Set Antenna Configuration|||
+PRODUCTMEASURE|1|Head_Number_of_Bands||PASS|||6.000||||||||||||||6|6|Antenna Configuration Validation|500||
+PRODUCTMEASURE|1|Head_Number_of_AISG_Connectors||PASS|||1.000||||||||||||||1|1|Antenna Configuration Validation|500||
+PRODUCTMEASURE|1|Head_Drive_Motor_Power_Level||PASS|||350.000||||||||||||||350|350|Antenna Configuration Validation|500||
+PRODUCTMEASURE|1|Head_Antenna_Model_Name||PASS||EGZV5-65D-R6|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Head_Index_Motor_Power_Level||PASS|||225.000||||||||||||||225|225|Antenna Configuration Validation|500||
+PRODUCTMEASURE|1|Head_Boost_Temperature||PASS||-25.0|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Head_Drive_Motor_BoostPowerLevel||PASS||500|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Head_Index_Motor_BoostPowerLevel||PASS||300|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Head_Position_Sensing||PASS||1|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Connector_Number_Band1||PASS|||1.000||||||||||||||1|1|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Sensor_Length_Band1||PASS|||68.000||||||||||||||68|68|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Overshoot_Direction_Band1||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Overshoot_Amount_Band1||PASS|||40.000||||||||||||||40|40|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Number_of_Data_Pairs_Band1||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Minimum_Tilt_Band1||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Maximum_Tilt_Band1||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Operating_Band_Low_In_File_Band1||PASS|||694.000||||||||||||||694|694|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Operating_Band_High_In_File_Band1||PASS|||862.000||||||||||||||862|862|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Operating_Band_value_1_Band1||PASS||7800|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_2_Band1||PASS||0024|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_3_Band1||PASS||0000|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Beamwidth_value_1_Band1||PASS|||65.000||||||||||||||65|65|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Beamwidth_value_2_Band1||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Beamwidth_value_3_Band1||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Beamwidth_value_4_Band1||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Gain_value_1_Band1||PASS|||16.200||||||||||||||16.2|16.2|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Gain_value_2_Band1||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Gain_value_3_Band1||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Gain_value_4_Band1||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Data_Drive_Rod_ID_Band1||PASS||D|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_ArryId_Band1||PASS||R1|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_ID_Band1||PASS||68|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_Tilt_Range_Value_Band1||PASS||247|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_Tilt_Range_Value_Band1||PASS||21725|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_End_Free_Buffer_Size_Band1||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_End_Free_Buffer_Size_Band1||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Table_Tilt_Value_Len_Band1||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Table_Tilt_Value_1_Band1||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Table_Tilt_Value_2_Band1||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Table_Tilt_Value_3_Band1||PASS|||10.000||||||||||||||10|10|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Table_Tilt_Value_4_Band1||PASS|||9.000||||||||||||||9|9|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Table_Tilt_Value_5_Band1||PASS|||8.000||||||||||||||8|8|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Table_Tilt_Value_6_Band1||PASS|||7.000||||||||||||||7|7|Antenna Configuration Validation|501||
+PRODUCTMEASURE|1|Table_Tilt_Value_7_Band1||PASS|||6.000||||||||||||||6|6|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Table_Tilt_Value_8_Band1||PASS|||5.000||||||||||||||5|5|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Table_Tilt_Value_9_Band1||PASS|||4.000||||||||||||||4|4|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Table_Tilt_Value_10_Band1||PASS|||3.000||||||||||||||3|3|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Table_Tilt_Value_11_Band1||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_Len_Band1||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_1_Band1||PASS|||324.000||||||||||||||324|324|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_2_Band1||PASS|||2215.000||||||||||||||2215|2215|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_3_Band1||PASS|||4105.000||||||||||||||4105|4105|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_4_Band1||PASS|||5995.000||||||||||||||5995|5995|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_5_Band1||PASS|||7885.000||||||||||||||7885|7885|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_6_Band1||PASS|||9776.000||||||||||||||9776|9776|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_7_Band1||PASS|||11786.000||||||||||||||11786|11786|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_8_Band1||PASS|||13848.000||||||||||||||13848|13848|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_9_Band1||PASS|||15910.000||||||||||||||15910|15910|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_10_Band1||PASS|||17972.000||||||||||||||17972|17972|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Sensor_Position_11_Band1||PASS|||20034.000||||||||||||||20034|20034|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Connector_Number_Band2||PASS|||1.000||||||||||||||1|1|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Sensor_Length_Band2||PASS|||68.000||||||||||||||68|68|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Overshoot_Direction_Band2||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Overshoot_Amount_Band2||PASS|||40.000||||||||||||||40|40|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Number_of_Data_Pairs_Band2||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Minimum_Tilt_Band2||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Maximum_Tilt_Band2||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Operating_Band_Low_In_File_Band2||PASS|||880.000||||||||||||||880|880|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Operating_Band_High_In_File_Band2||PASS|||960.000||||||||||||||960|960|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Operating_Band_value_1_Band2||PASS||0080|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_2_Band2||PASS||0000|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_3_Band2||PASS||0000|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Beamwidth_value_1_Band2||PASS|||63.000||||||||||||||63|63|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Beamwidth_value_2_Band2||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Beamwidth_value_3_Band2||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Beamwidth_value_4_Band2||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Gain_value_1_Band2||PASS|||16.400||||||||||||||16.4|16.4|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Gain_value_2_Band2||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Gain_value_3_Band2||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Gain_value_4_Band2||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|502||
+PRODUCTMEASURE|1|Data_Drive_Rod_ID_Band2||PASS||C|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_ArryId_Band2||PASS||R2|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_ID_Band2||PASS||68|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_Tilt_Range_Value_Band2||PASS||247|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_Tilt_Range_Value_Band2||PASS||21725|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_End_Free_Buffer_Size_Band2||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_End_Free_Buffer_Size_Band2||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Table_Tilt_Value_Len_Band2||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|503||
+PRODUCTMEASURE|1|Table_Tilt_Value_1_Band2||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_2_Band2||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_3_Band2||PASS|||10.000||||||||||||||10|10|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_4_Band2||PASS|||9.000||||||||||||||9|9|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_5_Band2||PASS|||8.000||||||||||||||8|8|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_6_Band2||PASS|||7.000||||||||||||||7|7|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_7_Band2||PASS|||6.000||||||||||||||6|6|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_8_Band2||PASS|||5.000||||||||||||||5|5|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_9_Band2||PASS|||4.000||||||||||||||4|4|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_10_Band2||PASS|||3.000||||||||||||||3|3|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Table_Tilt_Value_11_Band2||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Sensor_Position_Len_Band2||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Sensor_Position_1_Band2||PASS|||539.000||||||||||||||539|539|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Sensor_Position_2_Band2||PASS|||2429.000||||||||||||||2429|2429|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Sensor_Position_3_Band2||PASS|||4320.000||||||||||||||4320|4320|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Sensor_Position_4_Band2||PASS|||6210.000||||||||||||||6210|6210|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Sensor_Position_5_Band2||PASS|||8100.000||||||||||||||8100|8100|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Sensor_Position_6_Band2||PASS|||9990.000||||||||||||||9990|9990|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Sensor_Position_7_Band2||PASS|||12031.000||||||||||||||12031|12031|Antenna Configuration Validation|504||
+PRODUCTMEASURE|1|Sensor_Position_8_Band2||PASS|||14136.000||||||||||||||14136|14136|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Sensor_Position_9_Band2||PASS|||16241.000||||||||||||||16241|16241|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Sensor_Position_10_Band2||PASS|||18347.000||||||||||||||18347|18347|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Sensor_Position_11_Band2||PASS|||20450.000||||||||||||||20450|20450|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Connector_Number_Band3||PASS|||1.000||||||||||||||1|1|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Sensor_Length_Band3||PASS|||68.000||||||||||||||68|68|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Overshoot_Direction_Band3||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Overshoot_Amount_Band3||PASS|||40.000||||||||||||||40|40|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Number_of_Data_Pairs_Band3||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Minimum_Tilt_Band3||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Maximum_Tilt_Band3||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Operating_Band_Low_In_File_Band3||PASS|||1427.000||||||||||||||1427|1427|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Operating_Band_High_In_File_Band3||PASS|||2690.000||||||||||||||2690|2690|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Operating_Band_value_1_Band3||PASS||C77C|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_2_Band3||PASS||0740|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_3_Band3||PASS||01FF|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Beamwidth_value_1_Band3||PASS|||71.000||||||||||||||71|71|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Beamwidth_value_2_Band3||PASS|||62.000||||||||||||||62|62|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Beamwidth_value_3_Band3||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Beamwidth_value_4_Band3||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Gain_value_1_Band3||PASS|||14.500||||||||||||||14.5|14.5|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Gain_value_2_Band3||PASS|||16.500||||||||||||||16.5|16.5|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Gain_value_3_Band3||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Gain_value_4_Band3||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|505||
+PRODUCTMEASURE|1|Data_Drive_Rod_ID_Band3||PASS||A|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_ArryId_Band3||PASS||Y3|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_ID_Band3||PASS||68|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_Tilt_Range_Value_Band3||PASS||247|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_Tilt_Range_Value_Band3||PASS||21725|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_End_Free_Buffer_Size_Band3||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_End_Free_Buffer_Size_Band3||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Table_Tilt_Value_Len_Band3||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_1_Band3||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_2_Band3||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_3_Band3||PASS|||10.000||||||||||||||10|10|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_4_Band3||PASS|||9.000||||||||||||||9|9|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_5_Band3||PASS|||8.000||||||||||||||8|8|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_6_Band3||PASS|||7.000||||||||||||||7|7|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_7_Band3||PASS|||6.000||||||||||||||6|6|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_8_Band3||PASS|||5.000||||||||||||||5|5|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_9_Band3||PASS|||4.000||||||||||||||4|4|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_10_Band3||PASS|||3.000||||||||||||||3|3|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Table_Tilt_Value_11_Band3||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_Len_Band3||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_1_Band3||PASS|||4328.000||||||||||||||4328|4328|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_2_Band3||PASS|||5832.000||||||||||||||5832|5832|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_3_Band3||PASS|||7335.000||||||||||||||7335|7335|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_4_Band3||PASS|||8839.000||||||||||||||8839|8839|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_5_Band3||PASS|||10343.000||||||||||||||10343|10343|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_6_Band3||PASS|||11846.000||||||||||||||11846|11846|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_7_Band3||PASS|||13350.000||||||||||||||13350|13350|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_8_Band3||PASS|||14853.000||||||||||||||14853|14853|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_9_Band3||PASS|||16207.000||||||||||||||16207|16207|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_10_Band3||PASS|||17560.000||||||||||||||17560|17560|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Sensor_Position_11_Band3||PASS|||18913.000||||||||||||||18913|18913|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Data_Connector_Number_Band4||PASS|||1.000||||||||||||||1|1|Antenna Configuration Validation|506||
+PRODUCTMEASURE|1|Data_Sensor_Length_Band4||PASS|||47.000||||||||||||||47|47|Antenna Configuration Validation|507||
+PRODUCTMEASURE|1|Data_Overshoot_Direction_Band4||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|507||
+PRODUCTMEASURE|1|Data_Overshoot_Amount_Band4||PASS|||40.000||||||||||||||40|40|Antenna Configuration Validation|507||
+PRODUCTMEASURE|1|Data_Number_of_Data_Pairs_Band4||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|507||
+PRODUCTMEASURE|1|Data_Minimum_Tilt_Band4||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|507||
+PRODUCTMEASURE|1|Data_Maximum_Tilt_Band4||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|507||
+PRODUCTMEASURE|1|Data_Operating_Band_Low_In_File_Band4||PASS|||1695.000||||||||||||||1695|1695|Antenna Configuration Validation|507||
+PRODUCTMEASURE|1|Data_Operating_Band_High_In_File_Band4||PASS|||2690.000||||||||||||||2690|2690|Antenna Configuration Validation|508||
+PRODUCTMEASURE|1|Data_Operating_Band_value_1_Band4||PASS||C37C|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_2_Band4||PASS||0500|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_3_Band4||PASS||01FF|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Beamwidth_value_1_Band4||PASS|||68.000||||||||||||||68|68|Antenna Configuration Validation|508||
+PRODUCTMEASURE|1|Beamwidth_value_2_Band4||PASS|||63.000||||||||||||||63|63|Antenna Configuration Validation|508||
+PRODUCTMEASURE|1|Beamwidth_value_3_Band4||PASS|||60.000||||||||||||||60|60|Antenna Configuration Validation|508||
+PRODUCTMEASURE|1|Beamwidth_value_4_Band4||PASS|||61.000||||||||||||||61|61|Antenna Configuration Validation|508||
+PRODUCTMEASURE|1|Gain_value_1_Band4||PASS|||16.200||||||||||||||16.2|16.2|Antenna Configuration Validation|508||
+PRODUCTMEASURE|1|Gain_value_2_Band4||PASS|||17.200||||||||||||||17.2|17.2|Antenna Configuration Validation|508||
+PRODUCTMEASURE|1|Gain_value_3_Band4||PASS|||17.600||||||||||||||17.6|17.6|Antenna Configuration Validation|508||
+PRODUCTMEASURE|1|Gain_value_4_Band4||PASS|||17.100||||||||||||||17.1|17.1|Antenna Configuration Validation|508||
+PRODUCTMEASURE|1|Data_Drive_Rod_ID_Band4||PASS||B|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_ArryId_Band4||PASS||Y1|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_ID_Band4||PASS||47|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_Tilt_Range_Value_Band4||PASS||247|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_Tilt_Range_Value_Band4||PASS||14885|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_End_Free_Buffer_Size_Band4||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_End_Free_Buffer_Size_Band4||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Table_Tilt_Value_Len_Band4||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_1_Band4||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_2_Band4||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_3_Band4||PASS|||10.000||||||||||||||10|10|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_4_Band4||PASS|||9.000||||||||||||||9|9|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_5_Band4||PASS|||8.000||||||||||||||8|8|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_6_Band4||PASS|||7.000||||||||||||||7|7|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_7_Band4||PASS|||6.000||||||||||||||6|6|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_8_Band4||PASS|||5.000||||||||||||||5|5|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_9_Band4||PASS|||4.000||||||||||||||4|4|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_10_Band4||PASS|||3.000||||||||||||||3|3|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Table_Tilt_Value_11_Band4||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_Len_Band4||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_1_Band4||PASS|||540.000||||||||||||||540|540|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_2_Band4||PASS|||2003.000||||||||||||||2003|2003|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_3_Band4||PASS|||3466.000||||||||||||||3466|3466|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_4_Band4||PASS|||4929.000||||||||||||||4929|4929|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_5_Band4||PASS|||6392.000||||||||||||||6392|6392|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_6_Band4||PASS|||7855.000||||||||||||||7855|7855|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_7_Band4||PASS|||9318.000||||||||||||||9318|9318|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_8_Band4||PASS|||10751.000||||||||||||||10751|10751|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_9_Band4||PASS|||12068.000||||||||||||||12068|12068|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_10_Band4||PASS|||13384.000||||||||||||||13384|13384|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Sensor_Position_11_Band4||PASS|||14701.000||||||||||||||14701|14701|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Data_Connector_Number_Band5||PASS|||1.000||||||||||||||1|1|Antenna Configuration Validation|509||
+PRODUCTMEASURE|1|Data_Sensor_Length_Band5||PASS|||47.000||||||||||||||47|47|Antenna Configuration Validation|510||
+PRODUCTMEASURE|1|Data_Overshoot_Direction_Band5||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|510||
+PRODUCTMEASURE|1|Data_Overshoot_Amount_Band5||PASS|||40.000||||||||||||||40|40|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Data_Number_of_Data_Pairs_Band5||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Data_Minimum_Tilt_Band5||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Data_Maximum_Tilt_Band5||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Data_Operating_Band_Low_In_File_Band5||PASS|||1695.000||||||||||||||1695|1695|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Data_Operating_Band_High_In_File_Band5||PASS|||2690.000||||||||||||||2690|2690|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Data_Operating_Band_value_1_Band5||PASS||C37C|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_2_Band5||PASS||0500|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_3_Band5||PASS||01FF|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Beamwidth_value_1_Band5||PASS|||68.000||||||||||||||68|68|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Beamwidth_value_2_Band5||PASS|||63.000||||||||||||||63|63|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Beamwidth_value_3_Band5||PASS|||60.000||||||||||||||60|60|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Beamwidth_value_4_Band5||PASS|||61.000||||||||||||||61|61|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Gain_value_1_Band5||PASS|||16.200||||||||||||||16.2|16.2|Antenna Configuration Validation|511||
+PRODUCTMEASURE|1|Gain_value_2_Band5||PASS|||17.200||||||||||||||17.2|17.2|Antenna Configuration Validation|512||
+PRODUCTMEASURE|1|Gain_value_3_Band5||PASS|||17.600||||||||||||||17.6|17.6|Antenna Configuration Validation|512||
+PRODUCTMEASURE|1|Gain_value_4_Band5||PASS|||17.100||||||||||||||17.1|17.1|Antenna Configuration Validation|512||
+PRODUCTMEASURE|1|Data_Drive_Rod_ID_Band5||PASS||F|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_ArryId_Band5||PASS||Y2|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_ID_Band5||PASS||47|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_Tilt_Range_Value_Band5||PASS||247|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_Tilt_Range_Value_Band5||PASS||14885|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_End_Free_Buffer_Size_Band5||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_End_Free_Buffer_Size_Band5||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Table_Tilt_Value_Len_Band5||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_1_Band5||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_2_Band5||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_3_Band5||PASS|||10.000||||||||||||||10|10|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_4_Band5||PASS|||9.000||||||||||||||9|9|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_5_Band5||PASS|||8.000||||||||||||||8|8|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_6_Band5||PASS|||7.000||||||||||||||7|7|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_7_Band5||PASS|||6.000||||||||||||||6|6|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_8_Band5||PASS|||5.000||||||||||||||5|5|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_9_Band5||PASS|||4.000||||||||||||||4|4|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_10_Band5||PASS|||3.000||||||||||||||3|3|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Table_Tilt_Value_11_Band5||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_Len_Band5||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_1_Band5||PASS|||540.000||||||||||||||540|540|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_2_Band5||PASS|||2003.000||||||||||||||2003|2003|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_3_Band5||PASS|||3466.000||||||||||||||3466|3466|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_4_Band5||PASS|||4929.000||||||||||||||4929|4929|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_5_Band5||PASS|||6392.000||||||||||||||6392|6392|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_6_Band5||PASS|||7855.000||||||||||||||7855|7855|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_7_Band5||PASS|||9318.000||||||||||||||9318|9318|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_8_Band5||PASS|||10751.000||||||||||||||10751|10751|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_9_Band5||PASS|||12068.000||||||||||||||12068|12068|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_10_Band5||PASS|||13384.000||||||||||||||13384|13384|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Sensor_Position_11_Band5||PASS|||14701.000||||||||||||||14701|14701|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Data_Connector_Number_Band6||PASS|||1.000||||||||||||||1|1|Antenna Configuration Validation|513||
+PRODUCTMEASURE|1|Data_Sensor_Length_Band6||PASS|||47.000||||||||||||||47|47|Antenna Configuration Validation|514||
+PRODUCTMEASURE|1|Data_Overshoot_Direction_Band6||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|514||
+PRODUCTMEASURE|1|Data_Overshoot_Amount_Band6||PASS|||40.000||||||||||||||40|40|Antenna Configuration Validation|514||
+PRODUCTMEASURE|1|Data_Number_of_Data_Pairs_Band6||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|514||
+PRODUCTMEASURE|1|Data_Minimum_Tilt_Band6||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|514||
+PRODUCTMEASURE|1|Data_Maximum_Tilt_Band6||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|515||
+PRODUCTMEASURE|1|Data_Operating_Band_Low_In_File_Band6||PASS|||1695.000||||||||||||||1695|1695|Antenna Configuration Validation|515||
+PRODUCTMEASURE|1|Data_Operating_Band_High_In_File_Band6||PASS|||2690.000||||||||||||||2690|2690|Antenna Configuration Validation|515||
+PRODUCTMEASURE|1|Data_Operating_Band_value_1_Band6||PASS||C37C|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_2_Band6||PASS||0500|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_Operating_Band_value_3_Band6||PASS||01FF|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Beamwidth_value_1_Band6||PASS|||68.000||||||||||||||68|68|Antenna Configuration Validation|515||
+PRODUCTMEASURE|1|Beamwidth_value_2_Band6||PASS|||63.000||||||||||||||63|63|Antenna Configuration Validation|515||
+PRODUCTMEASURE|1|Beamwidth_value_3_Band6||PASS|||60.000||||||||||||||60|60|Antenna Configuration Validation|515||
+PRODUCTMEASURE|1|Beamwidth_value_4_Band6||PASS|||61.000||||||||||||||61|61|Antenna Configuration Validation|515||
+PRODUCTMEASURE|1|Gain_value_1_Band6||PASS|||16.200||||||||||||||16.2|16.2|Antenna Configuration Validation|515||
+PRODUCTMEASURE|1|Gain_value_2_Band6||PASS|||17.200||||||||||||||17.2|17.2|Antenna Configuration Validation|515||
+PRODUCTMEASURE|1|Gain_value_3_Band6||PASS|||17.600||||||||||||||17.6|17.6|Antenna Configuration Validation|516||
+PRODUCTMEASURE|1|Gain_value_4_Band6||PASS|||17.100||||||||||||||17.1|17.1|Antenna Configuration Validation|516||
+PRODUCTMEASURE|1|Data_Drive_Rod_ID_Band6||PASS||E|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Data_ArryId_Band6||PASS||Y4|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_ID_Band6||PASS||47|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_Tilt_Range_Value_Band6||PASS||247|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_Tilt_Range_Value_Band6||PASS||14885|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Min_End_Free_Buffer_Size_Band6||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Tilt_Range_Max_End_Free_Buffer_Size_Band6||PASS||147|0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|Table_Tilt_Value_Len_Band6||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|516||
+PRODUCTMEASURE|1|Table_Tilt_Value_1_Band6||PASS|||12.000||||||||||||||12|12|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_2_Band6||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_3_Band6||PASS|||10.000||||||||||||||10|10|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_4_Band6||PASS|||9.000||||||||||||||9|9|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_5_Band6||PASS|||8.000||||||||||||||8|8|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_6_Band6||PASS|||7.000||||||||||||||7|7|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_7_Band6||PASS|||6.000||||||||||||||6|6|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_8_Band6||PASS|||5.000||||||||||||||5|5|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_9_Band6||PASS|||4.000||||||||||||||4|4|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_10_Band6||PASS|||3.000||||||||||||||3|3|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Table_Tilt_Value_11_Band6||PASS|||2.000||||||||||||||2|2|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Sensor_Position_Len_Band6||PASS|||11.000||||||||||||||11|11|Antenna Configuration Validation|517||
+PRODUCTMEASURE|1|Sensor_Position_1_Band6||PASS|||247.000||||||||||||||247|247|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_2_Band6||PASS|||979.000||||||||||||||979|979|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_3_Band6||PASS|||2442.000||||||||||||||2442|2442|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_4_Band6||PASS|||3905.000||||||||||||||3905|3905|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_5_Band6||PASS|||5368.000||||||||||||||5368|5368|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_6_Band6||PASS|||6831.000||||||||||||||6831|6831|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_7_Band6||PASS|||8294.000||||||||||||||8294|8294|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_8_Band6||PASS|||9757.000||||||||||||||9757|9757|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_9_Band6||PASS|||11147.000||||||||||||||11147|11147|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_10_Band6||PASS|||12792.000||||||||||||||12792|12792|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Sensor_Position_11_Band6||PASS|||14438.000||||||||||||||14438|14438|Antenna Configuration Validation|518||
+PRODUCTMEASURE|1|Tilt_Range_ID_47||PASS|||47.000||||||||||||||47|47|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|Tilt_Minimum_Tilt_Range_Value_47||PASS|||247.000||||||||||||||247|247|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|Tilt_Maximum_Tilt_Range_Value_47||PASS|||14885.000||||||||||||||14885|14885|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|Tilt_Min_End_Free_Buffer_Size_47||PASS|||147.000||||||||||||||147|147|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|Tilt_Max_End_Free_Buffer_Size_47||PASS|||147.000||||||||||||||147|147|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|Tilt_Range_ID_68||PASS|||68.000||||||||||||||68|68|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|Tilt_Minimum_Tilt_Range_Value_68||PASS|||247.000||||||||||||||247|247|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|Tilt_Maximum_Tilt_Range_Value_68||PASS|||21725.000||||||||||||||21725|21725|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|Tilt_Min_End_Free_Buffer_Size_68||PASS|||147.000||||||||||||||147|147|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|Tilt_Max_End_Free_Buffer_Size_68||PASS|||147.000||||||||||||||147|147|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|TIME_Antenna Configuration Validation||PASS|||21.900||||||||||||||0|100000|Antenna Configuration Validation|519||
+PRODUCTMEASURE|1|STATUS_Antenna Configuration Validation||PASS|||0.000||||||||||||||0|0|Antenna Configuration Validation|||
+PRODUCTMEASURE|1|DO_FACTORY_CALIBRATION_BAND1||PASS|||0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|698||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_1||PASS|||12.000||||||||||||||12|12|Factory Calibration|699||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_2||PASS|||11.000||||||||||||||11|11|Factory Calibration|699||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_3||PASS|||10.000||||||||||||||10|10|Factory Calibration|699||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_4||PASS|||9.000||||||||||||||9|9|Factory Calibration|699||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_5||PASS|||8.000||||||||||||||8|8|Factory Calibration|699||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_6||PASS|||7.000||||||||||||||7|7|Factory Calibration|699||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_7||PASS|||6.000||||||||||||||6|6|Factory Calibration|699||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_8||PASS|||5.000||||||||||||||5|5|Factory Calibration|699||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_9||PASS|||4.000||||||||||||||4|4|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_10||PASS|||3.000||||||||||||||3|3|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_TABLE_TILT_VALUE_11||PASS|||2.000||||||||||||||2|2|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_1||PASS|||324.000||||||||||||||324|324|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_2||PASS|||2215.000||||||||||||||2215|2215|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_3||PASS|||4105.000||||||||||||||4105|4105|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_4||PASS|||5995.000||||||||||||||5995|5995|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_5||PASS|||7885.000||||||||||||||7885|7885|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_6||PASS|||9776.000||||||||||||||9776|9776|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_7||PASS|||11786.000||||||||||||||11786|11786|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_8||PASS|||13848.000||||||||||||||13848|13848|Factory Calibration|700||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_9||PASS|||15910.000||||||||||||||15910|15910|Factory Calibration|701||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_10||PASS|||17972.000||||||||||||||17972|17972|Factory Calibration|701||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_SENSOR_POSITION_11||PASS|||20034.000||||||||||||||20034|20034|Factory Calibration|701||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_STATISTICS_ACTUAL_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|701||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_STATISTICS_STORED_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|701||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_STATISTICS_ACTUAL_COUNTS||PASS|||9763.000||||||||||||||100|30000|Factory Calibration|701||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_STATISTICS_MAX_RETRACTED_SENSOR_POSITION||PASS|||29072.000||||||||||||||100|30000|Factory Calibration|701||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_STATISTICS_MAX_EXTENDED_SENSOR_POSITION||PASS|||100.000||||||||||||||100|30000|Factory Calibration|701||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND1_STATISTICS_OVERALL_SENSOR_RANGE||PASS||28972|0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|DO_FACTORY_CALIBRATION_BAND2||PASS|||0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|832||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_1||PASS|||12.000||||||||||||||12|12|Factory Calibration|832||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_2||PASS|||11.000||||||||||||||11|11|Factory Calibration|832||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_3||PASS|||10.000||||||||||||||10|10|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_4||PASS|||9.000||||||||||||||9|9|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_5||PASS|||8.000||||||||||||||8|8|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_6||PASS|||7.000||||||||||||||7|7|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_7||PASS|||6.000||||||||||||||6|6|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_8||PASS|||5.000||||||||||||||5|5|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_9||PASS|||4.000||||||||||||||4|4|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_10||PASS|||3.000||||||||||||||3|3|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_TABLE_TILT_VALUE_11||PASS|||2.000||||||||||||||2|2|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|833||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_1||PASS|||539.000||||||||||||||539|539|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_2||PASS|||2429.000||||||||||||||2429|2429|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_3||PASS|||4320.000||||||||||||||4320|4320|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_4||PASS|||6210.000||||||||||||||6210|6210|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_5||PASS|||8100.000||||||||||||||8100|8100|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_6||PASS|||9990.000||||||||||||||9990|9990|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_7||PASS|||12031.000||||||||||||||12031|12031|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_8||PASS|||14136.000||||||||||||||14136|14136|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_9||PASS|||16241.000||||||||||||||16241|16241|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_10||PASS|||18347.000||||||||||||||18347|18347|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_SENSOR_POSITION_11||PASS|||20450.000||||||||||||||20450|20450|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_STATISTICS_ACTUAL_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|834||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_STATISTICS_STORED_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|835||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_STATISTICS_ACTUAL_COUNTS||PASS|||9980.000||||||||||||||100|30000|Factory Calibration|835||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_STATISTICS_MAX_RETRACTED_SENSOR_POSITION||PASS|||29036.000||||||||||||||100|30000|Factory Calibration|835||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_STATISTICS_MAX_EXTENDED_SENSOR_POSITION||PASS|||100.000||||||||||||||100|30000|Factory Calibration|835||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND2_STATISTICS_OVERALL_SENSOR_RANGE||PASS||28936|0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|DO_FACTORY_CALIBRATION_BAND3||PASS|||0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|965||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_1||PASS|||12.000||||||||||||||12|12|Factory Calibration|965||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_2||PASS|||11.000||||||||||||||11|11|Factory Calibration|965||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_3||PASS|||10.000||||||||||||||10|10|Factory Calibration|966||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_4||PASS|||9.000||||||||||||||9|9|Factory Calibration|966||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_5||PASS|||8.000||||||||||||||8|8|Factory Calibration|966||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_6||PASS|||7.000||||||||||||||7|7|Factory Calibration|966||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_7||PASS|||6.000||||||||||||||6|6|Factory Calibration|966||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_8||PASS|||5.000||||||||||||||5|5|Factory Calibration|966||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_9||PASS|||4.000||||||||||||||4|4|Factory Calibration|966||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_10||PASS|||3.000||||||||||||||3|3|Factory Calibration|966||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_TABLE_TILT_VALUE_11||PASS|||2.000||||||||||||||2|2|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_1||PASS|||4328.000||||||||||||||4328|4328|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_2||PASS|||5832.000||||||||||||||5832|5832|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_3||PASS|||7335.000||||||||||||||7335|7335|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_4||PASS|||8839.000||||||||||||||8839|8839|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_5||PASS|||10343.000||||||||||||||10343|10343|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_6||PASS|||11846.000||||||||||||||11846|11846|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_7||PASS|||13350.000||||||||||||||13350|13350|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_8||PASS|||14853.000||||||||||||||14853|14853|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_9||PASS|||16207.000||||||||||||||16207|16207|Factory Calibration|967||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_10||PASS|||17560.000||||||||||||||17560|17560|Factory Calibration|968||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_SENSOR_POSITION_11||PASS|||18913.000||||||||||||||18913|18913|Factory Calibration|968||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_STATISTICS_ACTUAL_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|968||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_STATISTICS_STORED_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|968||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_STATISTICS_ACTUAL_COUNTS||PASS|||11860.000||||||||||||||100|30000|Factory Calibration|968||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_STATISTICS_MAX_RETRACTED_SENSOR_POSITION||PASS|||29036.000||||||||||||||100|30000|Factory Calibration|968||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_STATISTICS_MAX_EXTENDED_SENSOR_POSITION||PASS|||100.000||||||||||||||100|30000|Factory Calibration|968||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND3_STATISTICS_OVERALL_SENSOR_RANGE||PASS||28936|0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|DO_FACTORY_CALIBRATION_BAND4||PASS|||0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|1092||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_1||PASS|||12.000||||||||||||||12|12|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_2||PASS|||11.000||||||||||||||11|11|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_3||PASS|||10.000||||||||||||||10|10|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_4||PASS|||9.000||||||||||||||9|9|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_5||PASS|||8.000||||||||||||||8|8|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_6||PASS|||7.000||||||||||||||7|7|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_7||PASS|||6.000||||||||||||||6|6|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_8||PASS|||5.000||||||||||||||5|5|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_9||PASS|||4.000||||||||||||||4|4|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_10||PASS|||3.000||||||||||||||3|3|Factory Calibration|1093||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_TABLE_TILT_VALUE_11||PASS|||2.000||||||||||||||2|2|Factory Calibration|1094||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|1094||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_1||PASS|||540.000||||||||||||||540|540|Factory Calibration|1094||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_2||PASS|||2003.000||||||||||||||2003|2003|Factory Calibration|1094||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_3||PASS|||3466.000||||||||||||||3466|3466|Factory Calibration|1094||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_4||PASS|||4929.000||||||||||||||4929|4929|Factory Calibration|1094||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_5||PASS|||6392.000||||||||||||||6392|6392|Factory Calibration|1094||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_6||PASS|||7855.000||||||||||||||7855|7855|Factory Calibration|1094||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_7||PASS|||9318.000||||||||||||||9318|9318|Factory Calibration|1095||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_8||PASS|||10751.000||||||||||||||10751|10751|Factory Calibration|1095||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_9||PASS|||12068.000||||||||||||||12068|12068|Factory Calibration|1095||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_10||PASS|||13384.000||||||||||||||13384|13384|Factory Calibration|1095||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_SENSOR_POSITION_11||PASS|||14701.000||||||||||||||14701|14701|Factory Calibration|1095||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_STATISTICS_ACTUAL_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|1095||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_STATISTICS_STORED_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|1095||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_STATISTICS_ACTUAL_COUNTS||PASS|||7847.000||||||||||||||100|30000|Factory Calibration|1095||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_STATISTICS_MAX_RETRACTED_SENSOR_POSITION||PASS|||29036.000||||||||||||||100|30000|Factory Calibration|1096||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_STATISTICS_MAX_EXTENDED_SENSOR_POSITION||PASS|||100.000||||||||||||||100|30000|Factory Calibration|1096||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND4_STATISTICS_OVERALL_SENSOR_RANGE||PASS||28936|0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|DO_FACTORY_CALIBRATION_BAND5||PASS|||0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|1233||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_1||PASS|||12.000||||||||||||||12|12|Factory Calibration|1233||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_2||PASS|||11.000||||||||||||||11|11|Factory Calibration|1233||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_3||PASS|||10.000||||||||||||||10|10|Factory Calibration|1233||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_4||PASS|||9.000||||||||||||||9|9|Factory Calibration|1233||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_5||PASS|||8.000||||||||||||||8|8|Factory Calibration|1233||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_6||PASS|||7.000||||||||||||||7|7|Factory Calibration|1234||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_7||PASS|||6.000||||||||||||||6|6|Factory Calibration|1234||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_8||PASS|||5.000||||||||||||||5|5|Factory Calibration|1234||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_9||PASS|||4.000||||||||||||||4|4|Factory Calibration|1234||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_10||PASS|||3.000||||||||||||||3|3|Factory Calibration|1234||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_TABLE_TILT_VALUE_11||PASS|||2.000||||||||||||||2|2|Factory Calibration|1234||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|1234||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_1||PASS|||540.000||||||||||||||540|540|Factory Calibration|1234||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_2||PASS|||2003.000||||||||||||||2003|2003|Factory Calibration|1235||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_3||PASS|||3466.000||||||||||||||3466|3466|Factory Calibration|1235||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_4||PASS|||4929.000||||||||||||||4929|4929|Factory Calibration|1235||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_5||PASS|||6392.000||||||||||||||6392|6392|Factory Calibration|1235||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_6||PASS|||7855.000||||||||||||||7855|7855|Factory Calibration|1235||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_7||PASS|||9318.000||||||||||||||9318|9318|Factory Calibration|1235||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_8||PASS|||10751.000||||||||||||||10751|10751|Factory Calibration|1235||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_9||PASS|||12068.000||||||||||||||12068|12068|Factory Calibration|1235||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_10||PASS|||13384.000||||||||||||||13384|13384|Factory Calibration|1236||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_SENSOR_POSITION_11||PASS|||14701.000||||||||||||||14701|14701|Factory Calibration|1236||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_STATISTICS_ACTUAL_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|1236||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_STATISTICS_STORED_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|1236||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_STATISTICS_ACTUAL_COUNTS||PASS|||7847.000||||||||||||||100|30000|Factory Calibration|1236||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_STATISTICS_MAX_RETRACTED_SENSOR_POSITION||PASS|||29108.000||||||||||||||100|30000|Factory Calibration|1236||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_STATISTICS_MAX_EXTENDED_SENSOR_POSITION||PASS|||100.000||||||||||||||100|30000|Factory Calibration|1236||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND5_STATISTICS_OVERALL_SENSOR_RANGE||PASS||29008|0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|DO_FACTORY_CALIBRATION_BAND6||PASS|||0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|1363||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_1||PASS|||12.000||||||||||||||12|12|Factory Calibration|1364||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_2||PASS|||11.000||||||||||||||11|11|Factory Calibration|1364||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_3||PASS|||10.000||||||||||||||10|10|Factory Calibration|1364||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_4||PASS|||9.000||||||||||||||9|9|Factory Calibration|1364||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_5||PASS|||8.000||||||||||||||8|8|Factory Calibration|1364||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_6||PASS|||7.000||||||||||||||7|7|Factory Calibration|1364||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_7||PASS|||6.000||||||||||||||6|6|Factory Calibration|1364||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_8||PASS|||5.000||||||||||||||5|5|Factory Calibration|1364||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_9||PASS|||4.000||||||||||||||4|4|Factory Calibration|1365||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_10||PASS|||3.000||||||||||||||3|3|Factory Calibration|1365||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_TABLE_TILT_VALUE_11||PASS|||2.000||||||||||||||2|2|Factory Calibration|1365||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_LEN||PASS|||11.000||||||||||||||11|11|Factory Calibration|1365||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_1||PASS|||247.000||||||||||||||247|247|Factory Calibration|1365||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_2||PASS|||979.000||||||||||||||979|979|Factory Calibration|1365||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_3||PASS|||2442.000||||||||||||||2442|2442|Factory Calibration|1365||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_4||PASS|||3905.000||||||||||||||3905|3905|Factory Calibration|1365||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_5||PASS|||5368.000||||||||||||||5368|5368|Factory Calibration|1366||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_6||PASS|||6831.000||||||||||||||6831|6831|Factory Calibration|1366||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_7||PASS|||8294.000||||||||||||||8294|8294|Factory Calibration|1366||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_8||PASS|||9757.000||||||||||||||9757|9757|Factory Calibration|1366||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_9||PASS|||11147.000||||||||||||||11147|11147|Factory Calibration|1366||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_10||PASS|||12792.000||||||||||||||12792|12792|Factory Calibration|1366||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_SENSOR_POSITION_11||PASS|||14438.000||||||||||||||14438|14438|Factory Calibration|1366||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_STATISTICS_ACTUAL_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|1367||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_STATISTICS_STORED_TILT||PASS|||7.000||||||||||||||2|12|Factory Calibration|1367||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_STATISTICS_ACTUAL_COUNTS||PASS|||6834.000||||||||||||||100|30000|Factory Calibration|1367||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_STATISTICS_MAX_RETRACTED_SENSOR_POSITION||PASS|||29072.000||||||||||||||100|30000|Factory Calibration|1367||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_STATISTICS_MAX_EXTENDED_SENSOR_POSITION||PASS|||100.000||||||||||||||100|30000|Factory Calibration|1367||
+PRODUCTMEASURE|1|FACTORY_CAL_BAND6_STATISTICS_OVERALL_SENSOR_RANGE||PASS||28972|0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|TIME_Factory Calibration||PASS|||847.831||||||||||||||0|100000|Factory Calibration|1367||
+PRODUCTMEASURE|1|STATUS_Factory Calibration||PASS|||0.000||||||||||||||0|0|Factory Calibration|||
+PRODUCTMEASURE|1|Set Protocol Mode||PASS||SRET/SRET|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|Read Protocol Mode||PASS||SRET/SRET|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Lifetime_Run_Minutes||PASS||10|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Lifetime_Successful_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1396||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1396||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1397||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1397||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1397||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Last_Move_Start_Count||PASS||65535|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Last_Move_End_Count||PASS||9763|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Last_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Last_Move_End_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Last_Commanded_Counts||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Last_Commanded_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1399||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Ord_Voltage||PASS|||22.603||||||||||||||21.6|25|Functional Test|1399||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_AISG_1_Voltage||PASS|||23.774||||||||||||||21.6|25|Functional Test|1399||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Max_Tilt_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1424||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Max_Tilt_Ord_Voltage||PASS|||23.348||||||||||||||21.6|25|Functional Test|1424||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Max_Tilt_AISG_1_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1424||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Max_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Lifetime_Run_Minutes||PASS||10|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Lifetime_Successful_Moves||PASS|||1.000||||||||||||||1|1|Functional Test|1425||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1425||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1425||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1425||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1425||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Last_Move_Start_Count||PASS||9763|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Last_Move_Start_Degree||PASS||7|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Last_Move_End_Count||PASS|||325.000||||||||||||||124|524|Functional Test|1426||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Last_Commanded_Counts||PASS|||324.000||||||||||||||324|324|Functional Test|1426||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Last_Move_End_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1426||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Last_Commanded_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1426||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_MAX_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1471||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Ord_Voltage||PASS|||23.277||||||||||||||21.6|25|Functional Test|1471||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_AISG_1_Voltage||PASS|||23.632||||||||||||||21.6|25|Functional Test|1471||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Lifetime_Run_Minutes||PASS||11|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Lifetime_Successful_Moves||PASS|||2.000||||||||||||||2|2|Functional Test|1471||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1471||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1471||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1471||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1471||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Last_Move_Start_Count||PASS||325|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Last_Move_Start_Degree||PASS||12|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Last_Move_End_Count||PASS|||20033.000||||||||||||||19834|20234|Functional Test|1472||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Last_Commanded_Counts||PASS|||20034.000||||||||||||||20034|20034|Functional Test|1473||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Last_Move_End_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1473||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Last_Commanded_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1473||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Min_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Actual_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1474||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Stored_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1474||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Actual_Counts||PASS|||20033.000||||||||||||||19934|20134|Functional Test|1474||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Max_Retracted_Sensor_Position||PASS|||29072.000||||||||||||||100|30000|Functional Test|1475||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Max_Extended_Sensor_Position||PASS|||100.000||||||||||||||100|30000|Functional Test|1475||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_Overall_Sensor_Range||PASS||28972|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band1_3GPP_Release_ID||PASS|||10.000||||||||||||||10|10|Functional Test|1475||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Lifetime_Run_Minutes||PASS||11|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Lifetime_Successful_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1476||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1476||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1476||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1477||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1477||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Last_Move_Start_Count||PASS||65535|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Last_Move_End_Count||PASS||9980|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Last_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Last_Move_End_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Last_Commanded_Counts||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Last_Commanded_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1477||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Ord_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1479||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_AISG_1_Voltage||PASS|||23.774||||||||||||||21.6|25|Functional Test|1479||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Max_Tilt_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1501||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Max_Tilt_Ord_Voltage||PASS|||23.383||||||||||||||21.6|25|Functional Test|1501||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Max_Tilt_AISG_1_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1501||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Max_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Lifetime_Run_Minutes||PASS||12|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Lifetime_Successful_Moves||PASS|||1.000||||||||||||||1|1|Functional Test|1502||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1502||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1502||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1502||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1502||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Last_Move_Start_Count||PASS||9980|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Last_Move_Start_Degree||PASS||7|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Last_Move_End_Count||PASS|||542.000||||||||||||||339|739|Functional Test|1503||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Last_Commanded_Counts||PASS|||539.000||||||||||||||539|539|Functional Test|1503||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Last_Move_End_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1503||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Last_Commanded_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1503||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_MAX_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1546||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Ord_Voltage||PASS|||23.312||||||||||||||21.6|25|Functional Test|1546||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_AISG_1_Voltage||PASS|||23.632||||||||||||||21.6|25|Functional Test|1546||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Lifetime_Run_Minutes||PASS||12|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Lifetime_Successful_Moves||PASS|||2.000||||||||||||||2|2|Functional Test|1547||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1547||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1547||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1547||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1547||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Last_Move_Start_Count||PASS||542|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Last_Move_Start_Degree||PASS||12|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Last_Move_End_Count||PASS|||20467.000||||||||||||||20250|20650|Functional Test|1548||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Last_Commanded_Counts||PASS|||20450.000||||||||||||||20450|20450|Functional Test|1548||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Last_Move_End_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1548||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Last_Commanded_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1549||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Min_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Actual_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1550||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Stored_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1550||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Actual_Counts||PASS|||20467.000||||||||||||||20350|20550|Functional Test|1550||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Max_Retracted_Sensor_Position||PASS|||29036.000||||||||||||||100|30000|Functional Test|1550||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Max_Extended_Sensor_Position||PASS|||100.000||||||||||||||100|30000|Functional Test|1551||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_Overall_Sensor_Range||PASS||28936|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band2_3GPP_Release_ID||PASS|||10.000||||||||||||||10|10|Functional Test|1551||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Lifetime_Run_Minutes||PASS||13|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Lifetime_Successful_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1552||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1552||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1552||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1552||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1552||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Last_Move_Start_Count||PASS||65535|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Last_Move_End_Count||PASS||11860|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Last_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Last_Move_End_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Last_Commanded_Counts||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Last_Commanded_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1553||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Ord_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1555||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_AISG_1_Voltage||PASS|||23.774||||||||||||||21.6|25|Functional Test|1555||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Max_Tilt_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1579||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Max_Tilt_Ord_Voltage||PASS|||23.383||||||||||||||21.6|25|Functional Test|1579||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Max_Tilt_AISG_1_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1580||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Max_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Lifetime_Run_Minutes||PASS||13|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Lifetime_Successful_Moves||PASS|||1.000||||||||||||||1|1|Functional Test|1580||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1580||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1580||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1580||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1580||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Last_Move_Start_Count||PASS||11860|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Last_Move_Start_Degree||PASS||7|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Last_Move_End_Count||PASS|||4339.000||||||||||||||4128|4528|Functional Test|1581||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Last_Commanded_Counts||PASS|||4328.000||||||||||||||4328|4328|Functional Test|1581||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Last_Move_End_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1581||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Last_Commanded_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1582||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_MAX_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1615||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Ord_Voltage||PASS|||23.277||||||||||||||21.6|25|Functional Test|1615||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_AISG_1_Voltage||PASS|||23.596||||||||||||||21.6|25|Functional Test|1615||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Lifetime_Run_Minutes||PASS||14|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Lifetime_Successful_Moves||PASS|||2.000||||||||||||||2|2|Functional Test|1616||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1616||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1617||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1617||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1617||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Last_Move_Start_Count||PASS||4339|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Last_Move_Start_Degree||PASS||12|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Last_Move_End_Count||PASS|||18912.000||||||||||||||18713|19113|Functional Test|1617||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Last_Commanded_Counts||PASS|||18913.000||||||||||||||18913|18913|Functional Test|1618||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Last_Move_End_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1618||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Last_Commanded_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1618||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Min_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Actual_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1619||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Stored_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1619||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Actual_Counts||PASS|||18912.000||||||||||||||18813|19013|Functional Test|1619||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Max_Retracted_Sensor_Position||PASS|||29036.000||||||||||||||100|30000|Functional Test|1619||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Max_Extended_Sensor_Position||PASS|||100.000||||||||||||||100|30000|Functional Test|1619||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_Overall_Sensor_Range||PASS||28936|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band3_3GPP_Release_ID||PASS|||10.000||||||||||||||10|10|Functional Test|1619||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Lifetime_Run_Minutes||PASS||14|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Lifetime_Successful_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1621||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1621||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1621||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1622||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1622||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Last_Move_Start_Count||PASS||65535|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Last_Move_End_Count||PASS||7847|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Last_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Last_Move_End_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Last_Commanded_Counts||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Last_Commanded_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1622||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Ord_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1624||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_AISG_1_Voltage||PASS|||23.774||||||||||||||21.6|25|Functional Test|1624||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Max_Tilt_Temperature||PASS|||31.000||||||||||||||15|45|Functional Test|1643||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Max_Tilt_Ord_Voltage||PASS|||23.383||||||||||||||21.6|25|Functional Test|1643||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Max_Tilt_AISG_1_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1643||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Max_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Lifetime_Run_Minutes||PASS||14|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Lifetime_Successful_Moves||PASS|||1.000||||||||||||||1|1|Functional Test|1644||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1644||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1644||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1644||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1644||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Last_Move_Start_Count||PASS||7847|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Last_Move_Start_Degree||PASS||7|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Last_Move_End_Count||PASS|||542.000||||||||||||||340|740|Functional Test|1645||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Last_Commanded_Counts||PASS|||540.000||||||||||||||540|540|Functional Test|1645||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Last_Move_End_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1645||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Last_Commanded_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1645||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_MAX_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Temperature||PASS|||31.000||||||||||||||15|45|Functional Test|1676||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Ord_Voltage||PASS|||23.277||||||||||||||21.6|25|Functional Test|1676||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_AISG_1_Voltage||PASS|||23.632||||||||||||||21.6|25|Functional Test|1676||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Lifetime_Run_Minutes||PASS||15|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Lifetime_Successful_Moves||PASS|||2.000||||||||||||||2|2|Functional Test|1677||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1677||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1677||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1677||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1678||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Last_Move_Start_Count||PASS||542|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Last_Move_Start_Degree||PASS||12|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Last_Move_End_Count||PASS|||14717.000||||||||||||||14501|14901|Functional Test|1678||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Last_Commanded_Counts||PASS|||14701.000||||||||||||||14701|14701|Functional Test|1678||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Last_Move_End_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1678||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Last_Commanded_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1679||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Min_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Actual_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1680||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Stored_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1680||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Actual_Counts||PASS|||14717.000||||||||||||||14601|14801|Functional Test|1681||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Max_Retracted_Sensor_Position||PASS|||29036.000||||||||||||||100|30000|Functional Test|1681||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Max_Extended_Sensor_Position||PASS|||100.000||||||||||||||100|30000|Functional Test|1681||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_Overall_Sensor_Range||PASS||28936|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band4_3GPP_Release_ID||PASS|||10.000||||||||||||||10|10|Functional Test|1681||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Lifetime_Run_Minutes||PASS||15|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Lifetime_Successful_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1682||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1682||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1682||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1682||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1683||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Last_Move_Start_Count||PASS||65535|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Last_Move_End_Count||PASS||7847|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Last_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Last_Move_End_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Last_Commanded_Counts||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Last_Commanded_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Temperature||PASS|||30.500||||||||||||||15|45|Functional Test|1685||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Ord_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1685||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_AISG_1_Voltage||PASS|||23.774||||||||||||||21.6|25|Functional Test|1685||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Max_Tilt_Temperature||PASS|||31.000||||||||||||||15|45|Functional Test|1716||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Max_Tilt_Ord_Voltage||PASS|||23.383||||||||||||||21.6|25|Functional Test|1716||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Max_Tilt_AISG_1_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1716||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Max_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Lifetime_Run_Minutes||PASS||15|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Lifetime_Successful_Moves||PASS|||1.000||||||||||||||1|1|Functional Test|1717||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1717||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1717||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1717||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1717||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Last_Move_Start_Count||PASS||7847|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Last_Move_Start_Degree||PASS||7|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Last_Move_End_Count||PASS|||542.000||||||||||||||340|740|Functional Test|1718||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Last_Commanded_Counts||PASS|||540.000||||||||||||||540|540|Functional Test|1718||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Last_Move_End_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1718||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Last_Commanded_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1719||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_MAX_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Temperature||PASS|||31.000||||||||||||||15|45|Functional Test|1752||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Ord_Voltage||PASS|||23.312||||||||||||||21.6|25|Functional Test|1752||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_AISG_1_Voltage||PASS|||23.632||||||||||||||21.6|25|Functional Test|1752||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Lifetime_Run_Minutes||PASS||15|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Lifetime_Successful_Moves||PASS|||2.000||||||||||||||2|2|Functional Test|1753||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1753||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1753||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1753||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1754||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Last_Move_Start_Count||PASS||542|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Last_Move_Start_Degree||PASS||12|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Last_Move_End_Count||PASS|||14717.000||||||||||||||14501|14901|Functional Test|1754||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Last_Commanded_Counts||PASS|||14701.000||||||||||||||14701|14701|Functional Test|1755||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Last_Move_End_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1755||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Last_Commanded_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1755||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Min_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Actual_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1756||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Stored_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1757||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Actual_Counts||PASS|||14717.000||||||||||||||14601|14801|Functional Test|1757||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Max_Retracted_Sensor_Position||PASS|||29108.000||||||||||||||100|30000|Functional Test|1757||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Max_Extended_Sensor_Position||PASS|||100.000||||||||||||||100|30000|Functional Test|1757||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_Overall_Sensor_Range||PASS||29008|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band5_3GPP_Release_ID||PASS|||10.000||||||||||||||10|10|Functional Test|1758||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Lifetime_Run_Minutes||PASS||15|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Lifetime_Successful_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1759||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1759||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1759||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1759||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1759||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Last_Move_Start_Count||PASS||65535|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Last_Move_End_Count||PASS||6834|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Last_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Last_Move_End_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Last_Commanded_Counts||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Last_Commanded_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Temperature||PASS|||31.000||||||||||||||15|45|Functional Test|1762||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Ord_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1763||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_AISG_1_Voltage||PASS|||23.774||||||||||||||21.6|25|Functional Test|1763||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Max_Tilt_Temperature||PASS|||31.000||||||||||||||15|45|Functional Test|1782||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Max_Tilt_Ord_Voltage||PASS|||23.383||||||||||||||21.6|25|Functional Test|1783||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Max_Tilt_AISG_1_Voltage||PASS|||23.667||||||||||||||21.6|25|Functional Test|1783||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Max_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Lifetime_Run_Minutes||PASS||15|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Lifetime_Successful_Moves||PASS|||1.000||||||||||||||1|1|Functional Test|1784||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1784||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1784||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1784||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1784||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Last_Move_Start_Count||PASS||6834|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Last_Move_Start_Degree||PASS||7|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Last_Move_End_Count||PASS|||253.000||||||||||||||47|447|Functional Test|1785||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Last_Commanded_Counts||PASS|||247.000||||||||||||||247|247|Functional Test|1785||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Last_Move_End_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1785||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Last_Commanded_Degree||PASS|||12.000||||||||||||||12|12|Functional Test|1786||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_MAX_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Temperature||PASS|||31.000||||||||||||||15|45|Functional Test|1817||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Ord_Voltage||PASS|||23.312||||||||||||||21.6|25|Functional Test|1817||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_AISG_1_Voltage||PASS|||23.632||||||||||||||21.6|25|Functional Test|1817||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Protocol_Mode||PASS||3GPP/AI|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Lifetime_Run_Minutes||PASS||15|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Lifetime_Successful_Moves||PASS|||2.000||||||||||||||2|2|Functional Test|1818||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Lifetime_Failed_Moves||PASS|||0.000||||||||||||||0|0|Functional Test|1818||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Lifetime_Successful_Calibrations||PASS|||1.000||||||||||||||1|1|Functional Test|1819||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Lifetime_Failed_Calibrations||PASS|||0.000||||||||||||||0|0|Functional Test|1819||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Lifetime_Permanent_Jams||PASS|||0.000||||||||||||||0|0|Functional Test|1819||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Last_Move_Start_Count||PASS||253|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Last_Move_Start_Degree||PASS||12|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Last_Move_End_Count||PASS|||14464.000||||||||||||||14238|14638|Functional Test|1820||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Last_Commanded_Counts||PASS|||14438.000||||||||||||||14438|14438|Functional Test|1820||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Last_Move_End_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1820||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Last_Commanded_Degree||PASS|||2.000||||||||||||||2|2|Functional Test|1820||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Life_Moves_Count_at_Failed_Move||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Failed_Move_Start_Count||PASS||9999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Failed_Move_Start_Degree||PASS||999.9|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Failed_Move_Temperature||PASS||99.99|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Failed_Move_Voltage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Min_Tilt_Failed_Move_Amperage||PASS||9.999|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Actual_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1820||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Stored_Tilt||PASS|||2.000||||||||||||||2|2|Functional Test|1822||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Actual_Counts||PASS|||14464.000||||||||||||||14338|14538|Functional Test|1822||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Max_Retracted_Sensor_Position||PASS|||29072.000||||||||||||||100|30000|Functional Test|1822||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Max_Extended_Sensor_Position||PASS|||100.000||||||||||||||100|30000|Functional Test|1823||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_Overall_Sensor_Range||PASS||28972|0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|FUNCTIONTEST_Band6_3GPP_Release_ID||PASS|||10.000||||||||||||||10|10|Functional Test|1823||
+PRODUCTMEASURE|1|TIME_Functional Test||PASS|||455.643||||||||||||||0|100000|Functional Test|1823||
+PRODUCTMEASURE|1|STATUS_Functional Test||PASS|||0.000||||||||||||||0|0|Functional Test|||
+PRODUCTMEASURE|1|Set Protocol Mode Finalize||PASS||SRET|0.000||||||||||||||0|0|Finalize Production Data|||
+PRODUCTMEASURE|1|Production Date||PASS||11/02/2017 17:32:32|0.000||||||||||||||0|0|Finalize Production Data|||
+PRODUCTMEASURE|1|Software Build Date||PASS||Oct 27 2017 18:01:03|0.000||||||||||||||0|0|Finalize Production Data|||
+PRODUCTMEASURE|1|Serial Number||PASS||017TEST00000000|0.000||||||||||||||0|0|Finalize Production Data|||
+PRODUCTMEASURE|1|Read Protocol Mode Finnalize AISG Port Number||PASS||1|0.000||||||||||||||0|0|Finalize Production Data|||
+PRODUCTMEASURE|1|Read Protocol Mode Finnalize ProtocolModeAISG1||PASS||SRET|0.000||||||||||||||0|0|Finalize Production Data|||
+PRODUCTMEASURE|1|Read Protocol Mode Finnalize ProtocolModeAISG2||PASS||SRET|0.000||||||||||||||0|0|Finalize Production Data|||
+PRODUCTMEASURE|1|TIME_Finalize Production Data||PASS|||23.500||||||||||||||0|100000|Finalize Production Data|1847||
+PRODUCTMEASURE|1|STATUS_Finalize Production Data||PASS|||0.000||||||||||||||0|0|Finalize Production Data|||
+EVENTSTOP|1|PASS|1848||1.0.4|||||

@@ -1,0 +1,9 @@
+Trace start......
+8/23/2022 10:13:09 AM: GUI [Info] -> Result folder is C:\TestResult\.
+8/23/2022 10:13:09 AM: GUI [Warn] -> Result folder not found: C:\TestResult\.
+8/23/2022 10:13:09 AM: GUI [Warn] -> Default Result folder is used: C:\TestResult\.
+8/23/2022 10:13:09 AM: GUI [Info] -> UserSetting.xml file is updated.
+8/23/2022 10:13:09 AM: GUI [Info] -> Enable Insert SN
+8/23/2022 10:13:09 AM: GUI [Info] -> Local version is 5.9.
+8/23/2022 10:13:10 AM: GUI [Info] -> Server version is 5.9.
+8/23/2022 10:13:28 AM: GUI [Warn] -> Closing in progress......

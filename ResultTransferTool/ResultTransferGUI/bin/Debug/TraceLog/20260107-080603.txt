@@ -1,0 +1,7 @@
+Trace start......
+2026-01-07 8:06:04 AM: GUI [Info] -> Result folder is C:\Commscope\FACTS\TestData\.
+2026-01-07 8:06:04 AM: GUI [Warn] -> Result folder not found: C:\Commscope\FACTS\TestData\.
+2026-01-07 8:06:04 AM: GUI [Warn] -> Default Result folder is used: C:\Commscope\FACTS\TestData\.
+2026-01-07 8:06:04 AM: GUI [Info] -> UserSetting.xml file is updated.
+2026-01-07 8:06:04 AM: GUI [Info] -> Enable Insert SN
+2026-01-07 8:06:04 AM: GUI [Info] -> Local version is 1.2.

@@ -1,0 +1,7 @@
+Trace start......
+1/22/2025 6:42:08 PM: GUI [Info] -> Result folder is C:\Commscope\FACTS\TestData\.
+1/22/2025 6:42:09 PM: GUI [Warn] -> Result folder not found: C:\Commscope\FACTS\TestData\.
+1/22/2025 6:42:10 PM: GUI [Warn] -> Default Result folder is used: C:\Commscope\FACTS\TestData\.
+1/22/2025 6:42:11 PM: GUI [Info] -> UserSetting.xml file is updated.
+1/22/2025 6:42:14 PM: GUI [Info] -> Local version is 1.1.
+1/22/2025 6:42:17 PM: GUI [Info] -> Server version is 1.1.

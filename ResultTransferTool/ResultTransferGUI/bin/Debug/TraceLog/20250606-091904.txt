@@ -1,0 +1,109 @@
+Trace start......
+6/6/2025 9:19:04 AM: GUI [Info] -> Result folder is C:\Commscope\FACTS\TestData\.
+6/6/2025 9:19:04 AM: GUI [Info] -> Enable Insert SN
+6/6/2025 9:19:04 AM: GUI [Info] -> Local version is 1.1.
+6/6/2025 9:19:34 AM: GUI [Info] -> Server version is 1.1.
+6/6/2025 9:19:39 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+6/6/2025 9:19:59 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+6/6/2025 9:19:59 AM: SQL Controller [Info] -> Start to transfer file 25CN109999999!20250606091816!DOE!FJ-02TAADDB-003M!System.dat
+6/6/2025 9:19:59 AM: SQL [Info] -> Step: ReadResultsFromFile
+6/6/2025 9:20:03 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+6/6/2025 9:20:03 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+6/6/2025 9:20:03 AM: SQL [Info] -> Step: CheckSn
+6/6/2025 9:20:03 AM: SQL [Info] -> SN already in DB. Skip to insert this one.
+6/6/2025 9:20:03 AM: SQL [Info] -> Step: CheckWorkOrder
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: CheckMeasMain
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: UpdateMeasMain
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: CheckTesterInfo
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: CheckMeasPhase
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasPhase
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: CheckAssyParts
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: CheckMeasGroup
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasGroup
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasGroup
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: CheckMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920971
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920972
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920973
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920974
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920975
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920976
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920977
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920978
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920979
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920980
+6/6/2025 9:20:05 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:05 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920981
+6/6/2025 9:20:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:20:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920982
+6/6/2025 9:20:06 AM: SQL [Info] -> Step: CheckMeasInstrument
+6/6/2025 9:20:06 AM: SQL [Info] -> Step: InsertInstrumentTable
+6/6/2025 9:20:06 AM: SQL [Info] -> Time cost: 2.5748044
+6/6/2025 9:20:06 AM: Controller [Info] -> Move file to C:\Users\fenzhang\OneDrive - Andrew\Documents\01CATS\16FACTS\ResultTransferTool\ResultTransferGUI\bin\Debug\ResultsBackUpCache\20250606\25CN109999999!20250606091816!DOE!FJ-02TAADDB-003M!System.dat.
+6/6/2025 9:20:06 AM: SQL Controller [Info] -> Write successful static item
+6/6/2025 9:20:06 AM: SQL Controller [Info] -> Finish to transfer file 25CN109999999!20250606091816!DOE!FJ-02TAADDB-003M!System.dat
+6/6/2025 9:20:07 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+6/6/2025 9:20:07 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+6/6/2025 9:20:08 AM: Backup Controller [Info] -> Copy 25CN109999999!20250606091816!DOE!FJ-02TAADDB-003M!System.dat to server finished.
+6/6/2025 9:21:04 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+6/6/2025 9:21:04 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+6/6/2025 9:21:04 AM: SQL Controller [Info] -> Start to transfer file 25CN109999999!20250606092046!DOE!FJ-02TAADDB-003M!System.dat
+6/6/2025 9:21:04 AM: SQL [Info] -> Step: ReadResultsFromFile
+6/6/2025 9:21:05 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+6/6/2025 9:21:05 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: CheckSn
+6/6/2025 9:21:05 AM: SQL [Info] -> SN already in DB. Skip to insert this one.
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: CheckWorkOrder
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: CheckMeasMain
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: UpdateMeasMain
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: CheckTesterInfo
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: CheckMeasPhase
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: InsertMeasPhase
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: CheckAssyParts
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: CheckMeasGroup
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: InsertMeasGroup
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: InsertMeasGroup
+6/6/2025 9:21:05 AM: SQL [Info] -> Step: CheckMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920983
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920984
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920985
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920986
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920987
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920988
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920989
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920990
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920991
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920992
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920993
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertMeasDetail
+6/6/2025 9:21:06 AM: SQL [Info] -> AAAAAAAAAAAAAAA MeasDetailID: 920994
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: CheckMeasInstrument
+6/6/2025 9:21:06 AM: SQL [Info] -> Step: InsertInstrumentTable
+6/6/2025 9:21:06 AM: SQL [Info] -> Time cost: 0.8233961
+6/6/2025 9:21:06 AM: Controller [Info] -> Move file to C:\Users\fenzhang\OneDrive - Andrew\Documents\01CATS\16FACTS\ResultTransferTool\ResultTransferGUI\bin\Debug\ResultsBackUpCache\20250606\25CN109999999!20250606092046!DOE!FJ-02TAADDB-003M!System.dat.
+6/6/2025 9:21:06 AM: SQL Controller [Info] -> Write successful static item
+6/6/2025 9:21:06 AM: SQL Controller [Info] -> Finish to transfer file 25CN109999999!20250606092046!DOE!FJ-02TAADDB-003M!System.dat
+6/6/2025 9:21:08 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+6/6/2025 9:21:09 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+6/6/2025 9:21:09 AM: Backup Controller [Info] -> Copy 25CN109999999!20250606092046!DOE!FJ-02TAADDB-003M!System.dat to server finished.

@@ -1,0 +1,4 @@
+Trace start......
+2/8/2023 9:18:35 AM: GUI [Info] -> Result folder is C:\Commscope\FACTS\TestData\.
+2/8/2023 9:18:35 AM: GUI [Info] -> Enable Insert SN
+2/8/2023 9:18:35 AM: GUI [Info] -> Local version is 1.

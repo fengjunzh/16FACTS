@@ -1,0 +1,13 @@
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\bin\Release\ResultTransferTool.dll
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\bin\Release\ResultTransferTool.pdb
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\bin\Release\CATS.BLL.dll
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\bin\Release\CATS.DAL.dll
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\bin\Release\CATS.Model.dll
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\bin\Release\Encryptor.dll
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\bin\Release\Nlogger.dll
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\bin\Release\Nlogger.pdb
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\obj\Release\ResultTransferTool.csprojAssemblyReference.cache
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\obj\Release\ResultTransferTool.csproj.CoreCompileInputs.cache
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\obj\Release\ResultTransferTool.csproj.CopyComplete
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\obj\Release\ResultTransferTool.dll
+C:\Workspace\Result_Transfer_Tool\ResultTransferTool\obj\Release\ResultTransferTool.pdb

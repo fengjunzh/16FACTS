@@ -1,0 +1,29 @@
+Trace start......
+6/6/2025 8:45:36 AM: GUI [Info] -> Result folder is C:\Commscope\FACTS\TestData\.
+6/6/2025 8:45:36 AM: GUI [Info] -> Enable Insert SN
+6/6/2025 8:45:36 AM: GUI [Info] -> Local version is 1.1.
+6/6/2025 8:45:40 AM: GUI [Info] -> Server version is 1.1.
+6/6/2025 8:45:42 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+6/6/2025 8:45:42 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+6/6/2025 8:45:42 AM: SQL Controller [Info] -> Start to transfer file 25CN19999999!20250606083654!DOE!FJ-02TAADDB-003M!System.dat
+6/6/2025 8:45:42 AM: SQL [Info] -> Step: ReadResultsFromFile
+6/6/2025 8:45:42 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+6/6/2025 8:45:43 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+6/6/2025 8:45:43 AM: SQL [Info] -> Step: CheckSn
+6/6/2025 8:45:43 AM: SQL [Info] -> SN already in DB. Skip to insert this one.
+6/6/2025 8:45:43 AM: SQL [Info] -> Step: CheckWorkOrder
+6/6/2025 8:45:43 AM: SQL [Info] -> Step: CheckMeasMain
+6/6/2025 8:45:43 AM: SQL [Info] -> Step: UpdateMeasMain
+6/6/2025 8:45:43 AM: SQL [Info] -> Step: CheckTesterInfo
+6/6/2025 8:45:43 AM: SQL [Info] -> Step: CheckMeasPhase
+6/6/2025 8:45:43 AM: SQL [Info] -> Step: CheckAssyParts
+6/6/2025 8:45:43 AM: SQL [Info] -> Step: CheckMeasGroup
+6/6/2025 8:45:43 AM: SQL [Info] -> Step: CheckMeasDetail
+6/6/2025 8:45:44 AM: SQL [Info] -> Step: CheckMeasInstrument
+6/6/2025 8:45:44 AM: SQL [Info] -> Time cost: 1.0385648
+6/6/2025 8:45:44 AM: Controller [Info] -> Move file to C:\Users\fenzhang\OneDrive - Andrew\Documents\01CATS\16FACTS\ResultTransferTool\ResultTransferGUI\bin\Debug\ResultsBackUpCache\20250606\25CN19999999!20250606083654!DOE!FJ-02TAADDB-003M!System.dat.
+6/6/2025 8:45:44 AM: SQL Controller [Info] -> Write successful static item
+6/6/2025 8:45:44 AM: SQL Controller [Info] -> Finish to transfer file 25CN19999999!20250606083654!DOE!FJ-02TAADDB-003M!System.dat
+6/6/2025 8:45:47 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+6/6/2025 8:45:47 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+6/6/2025 8:45:48 AM: Backup Controller [Info] -> Copy 25CN19999999!20250606083654!DOE!FJ-02TAADDB-003M!System.dat to server finished.

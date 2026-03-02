@@ -1,0 +1,78 @@
+Trace start......
+2/8/2023 10:17:56 AM: GUI [Info] -> Result folder is C:\Commscope\FACTS\TestData\.
+2/8/2023 10:17:56 AM: GUI [Info] -> Enable Insert SN
+2/8/2023 10:18:13 AM: GUI [Info] -> Local version is 1.1.
+2/8/2023 10:18:16 AM: GUI [Info] -> Server version is 1.1.
+2/8/2023 10:18:21 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+2/8/2023 10:18:23 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+2/8/2023 10:18:23 AM: SQL Controller [Info] -> Start to transfer file HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat
+2/8/2023 10:18:23 AM: SQL [Info] -> Step: ReadResultsFromFile
+2/8/2023 10:18:24 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+2/8/2023 10:18:26 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+2/8/2023 10:18:26 AM: SQL [Info] -> Step: CheckSn
+2/8/2023 10:18:26 AM: SQL [Info] -> SN already in DB. Skip to insert this one.
+2/8/2023 10:18:26 AM: SQL [Info] -> Step: CheckWorkOrder
+2/8/2023 10:18:28 AM: SQL [Info] -> Step: CheckMeasMain
+2/8/2023 10:18:28 AM: SQL [Info] -> Step: UpdateMeasMain
+2/8/2023 10:18:28 AM: SQL [Info] -> Step: CheckTesterInfo
+2/8/2023 10:18:28 AM: SQL [Info] -> Step: CheckMeasPhase
+2/8/2023 10:18:28 AM: SQL [Info] -> Step: CheckAssyParts
+2/8/2023 10:18:28 AM: SQL [Info] -> Step: CheckMeasGroup
+2/8/2023 10:18:28 AM: SQL [Info] -> Step: CheckMeasDetail
+2/8/2023 10:18:28 AM: SQL [Info] -> Step: CheckMeasInstrument
+2/8/2023 10:18:28 AM: SQL [Info] -> Step: InsertInstrumentModel
+2/8/2023 10:18:29 AM: SQL [Info] -> Time cost: 2.8151776
+2/8/2023 10:18:29 AM: SQL Controller [Info] -> Write failure static item
+2/8/2023 10:21:25 AM: GUI [Error] -> Catch error -> instr_model.BLL.AddReturnId()::instr_model.DAL.AddReturnId()::RunProcedure()::Could not find stored procedure 'proc_instr_model_Add'.
+2/8/2023 10:21:27 AM: GUI [Warn] -> SQL Transfer Task Restart
+2/8/2023 10:21:34 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+2/8/2023 10:21:36 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+2/8/2023 10:21:36 AM: SQL Controller [Info] -> Start to transfer file HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat
+2/8/2023 10:21:36 AM: SQL [Info] -> Step: ReadResultsFromFile
+2/8/2023 10:21:37 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+2/8/2023 10:21:40 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+2/8/2023 10:21:40 AM: SQL [Info] -> Step: CheckSn
+2/8/2023 10:21:40 AM: SQL [Info] -> SN already in DB. Skip to insert this one.
+2/8/2023 10:21:40 AM: SQL [Info] -> Step: CheckWorkOrder
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: CheckMeasMain
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: UpdateMeasMain
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: CheckTesterInfo
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: CheckMeasPhase
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: CheckAssyParts
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: CheckMeasGroup
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: CheckMeasDetail
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: CheckMeasInstrument
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: InsertInstrumentModel
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: InsertInstrumentMain (JDSU, PCT, 601772, 3.6.10
+)
+2/8/2023 10:21:41 AM: SQL [Info] -> Step: InsertInstrumentTable
+2/8/2023 10:21:41 AM: SQL [Info] -> Time cost: 1.5140711
+2/8/2023 10:21:41 AM: SQL Controller [Info] -> Write failure static item
+2/8/2023 10:24:01 AM: GUI [Error] -> Catch error -> meas_instr.BLL.Add()::meas_instr.DAL.Add()::RunProcedure()::Could not find stored procedure 'proc_meas_instr_Add'.
+2/8/2023 10:24:03 AM: GUI [Warn] -> SQL Transfer Task Restart
+2/8/2023 10:24:07 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+2/8/2023 10:24:08 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+2/8/2023 10:24:08 AM: SQL Controller [Info] -> Start to transfer file HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat
+2/8/2023 10:24:08 AM: SQL [Info] -> Step: ReadResultsFromFile
+2/8/2023 10:24:10 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+2/8/2023 10:24:12 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+2/8/2023 10:24:12 AM: SQL [Info] -> Step: CheckSn
+2/8/2023 10:24:12 AM: SQL [Info] -> SN already in DB. Skip to insert this one.
+2/8/2023 10:24:12 AM: SQL [Info] -> Step: CheckWorkOrder
+2/8/2023 10:24:14 AM: SQL [Info] -> Step: CheckMeasMain
+2/8/2023 10:24:14 AM: SQL [Info] -> Step: UpdateMeasMain
+2/8/2023 10:24:14 AM: SQL [Info] -> Step: CheckTesterInfo
+2/8/2023 10:24:14 AM: SQL [Info] -> Step: CheckMeasPhase
+2/8/2023 10:24:14 AM: SQL [Info] -> Step: CheckAssyParts
+2/8/2023 10:24:14 AM: SQL [Info] -> Step: CheckMeasGroup
+2/8/2023 10:24:14 AM: SQL [Info] -> Step: CheckMeasDetail
+2/8/2023 10:24:15 AM: SQL [Info] -> Step: CheckMeasInstrument
+2/8/2023 10:24:15 AM: SQL [Info] -> Step: InsertInstrumentTable
+2/8/2023 10:24:15 AM: SQL [Info] -> Time cost: 2.7970431
+2/8/2023 10:24:15 AM: Controller [Info] -> Move file to C:\Users\fenzhang\OneDrive - CommScope\Documents\01CATS\16FACTS\ResultTransferTool\ResultTransferGUI\bin\Debug\ResultsBackUpCache\20230208\HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat.
+2/8/2023 10:24:15 AM: SQL Controller [Info] -> Write successful static item
+2/8/2023 10:24:15 AM: SQL Controller [Info] -> Finish to transfer file HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat
+2/8/2023 10:24:26 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+2/8/2023 10:24:29 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+2/8/2023 10:24:29 AM: Backup Controller [Info] -> Copy HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat to server finished.
+2/8/2023 10:24:42 AM: GUI [Warn] -> Closing in progress......

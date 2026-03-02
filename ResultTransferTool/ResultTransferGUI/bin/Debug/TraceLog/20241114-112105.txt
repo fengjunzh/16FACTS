@@ -1,0 +1,9 @@
+Trace start......
+11/14/2024 11:21:05 AM: GUI [Info] -> Result folder is C:\Commscope\FACTS\TestData\.
+11/14/2024 11:21:05 AM: GUI [Warn] -> Result folder not found: C:\Commscope\FACTS\TestData\.
+11/14/2024 11:21:05 AM: GUI [Warn] -> Default Result folder is used: C:\Commscope\FACTS\TestData\.
+11/14/2024 11:21:05 AM: GUI [Info] -> UserSetting.xml file is updated.
+11/14/2024 11:21:05 AM: GUI [Info] -> Enable Insert SN
+11/14/2024 11:21:08 AM: GUI [Info] -> Local version is 1.1.
+11/14/2024 11:21:12 AM: GUI [Warn] -> Can't find version info from server (\\sdcnas01\sts_cats\APP_Fiber\FACTSResultTransferTool)!
+11/14/2024 11:22:59 AM: GUI [Warn] -> Closing in progress......

@@ -1,0 +1,8 @@
+C:\Workspace\Result_Transfer_Tool\DcfHelper\bin\Release\DcfHelper.dll
+C:\Workspace\Result_Transfer_Tool\DcfHelper\bin\Release\DcfHelper.pdb
+C:\Workspace\Result_Transfer_Tool\DcfHelper\bin\Release\Encryptor.dll
+C:\Workspace\Result_Transfer_Tool\DcfHelper\obj\Release\DcfHelper.csproj.CoreCompileInputs.cache
+C:\Workspace\Result_Transfer_Tool\DcfHelper\obj\Release\DcfHelper.csproj.CopyComplete
+C:\Workspace\Result_Transfer_Tool\DcfHelper\obj\Release\DcfHelper.dll
+C:\Workspace\Result_Transfer_Tool\DcfHelper\obj\Release\DcfHelper.pdb
+C:\Workspace\Result_Transfer_Tool\DcfHelper\bin\Release\System.Net.Http.dll

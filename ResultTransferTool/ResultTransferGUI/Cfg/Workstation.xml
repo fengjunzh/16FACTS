@@ -1,0 +1,11 @@
+<root>
+	<Workstation>
+		<PIM_Test>STS存盘</PIM_Test>
+		<RL_ISO>RLISO存盘</RL_ISO>
+    <Alternate>
+      <PIM_Test>PIM存盘</PIM_Test>
+      <RL_ISO>RL/ISO存盘</RL_ISO>
+      <RL_ISO>RL_ISO存盘</RL_ISO>
+    </Alternate>
+	</Workstation>
+</root>

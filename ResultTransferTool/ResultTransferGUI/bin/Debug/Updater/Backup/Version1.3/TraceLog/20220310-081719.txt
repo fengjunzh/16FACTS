@@ -1,0 +1,7 @@
+Trace start......
+3/10/2022 8:17:21 AM: GUI [Error] -> Handle Cfg\UserSetting.xml fail.
+3/10/2022 8:17:22 AM: GUI [Error] -> Update Cfg\UserSetting.xml fail.
+3/10/2022 8:17:22 AM: GUI [Warn] -> Default Result folder is used: \\ASZPWBCATSS02\CatsResultTransferTool\Version5.9\Results.
+3/10/2022 8:17:25 AM: GUI [Info] -> Local version is 5.9.
+3/10/2022 8:17:30 AM: GUI [Info] -> Server version is 5.9.
+3/10/2022 8:21:36 AM: GUI [Warn] -> Closing in progress......

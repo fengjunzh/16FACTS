@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1764DD2F-E644-41F8-AE62-9950A19703F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>FACTSSpecManager.My.MyApplication</StartupObject>
+    <RootNamespace>FACTSSpecManager</RootNamespace>
+    <AssemblyName>FACTSSpecManager</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FACTSSpecManager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FACTSSpecManager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>FACTSSpecManager.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.C1FlexGrid.4, Version=4.6.20111.602, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\C1.Win.C1FlexGrid.4.dll</HintPath>
+    </Reference>
+    <Reference Include="Encryptor">
+      <HintPath>..\Encryptor.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin4">
+      <HintPath>..\IrisSkin4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\AppConfigured.vb" />
+    <Compile Include="Common\CATSProfile.vb" />
+    <Compile Include="Common\ComboxItem.vb" />
+    <Compile Include="Common\DbOperator.vb" />
+    <Compile Include="Common\Encryptor.vb" />
+    <Compile Include="Common\GlobalFunc.vb" />
+    <Compile Include="Common\GlobalVariable.vb" />
+    <Compile Include="FormLogin.designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.designer.vb">
+      <DependentUpon>FormMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\BulkCopy\FormPRBCCrossMode.designer.vb">
+      <DependentUpon>FormPRBCCrossMode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product\BulkCopy\FormPRBCCrossMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\BulkCopy\FormPRBCCrossProduct.designer.vb">
+      <DependentUpon>FormPRBCCrossProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product\BulkCopy\FormPRBCCrossProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\BulkCopy\FormPRBCCrossSystem.designer.vb">
+      <DependentUpon>FormPRBCCrossSystem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product\BulkCopy\FormPRBCCrossSystem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\Specification\FormPRSPRLIL.Designer.vb">
+      <DependentUpon>FormPRSPRLIL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product\Specification\FormPRSPRLIL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\FormPRMode.designer.vb">
+      <DependentUpon>FormPRMode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product\FormPRMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\FormPRProfile.Designer.vb">
+      <DependentUpon>FormPRProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product\FormPRProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\Specification\FormPRSPRLILItem.Designer.vb">
+      <DependentUpon>FormPRSPRLILItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product\Specification\FormPRSPRLILItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\FormConnectorSpecDetail.Designer.vb">
+      <DependentUpon>FormConnectorSpecDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\FormConnectorSpecDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\FormConnectorSpecMain.Designer.vb">
+      <DependentUpon>FormConnectorSpecMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\FormConnectorSpecMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\FormConnectorType.Designer.vb">
+      <DependentUpon>FormConnectorType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\FormConnectorType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\FormFiberCableIL.Designer.vb">
+      <DependentUpon>FormFiberCableIL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\FormFiberCableIL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FormUSManager.designer.vb">
+      <DependentUpon>FormUSManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\FormUSManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FormUSPrivilege.designer.vb">
+      <DependentUpon>FormUSPrivilege.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\FormUSPrivilege.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\BulkCopy\FormPRBCCrossMode.resx">
+      <DependentUpon>FormPRBCCrossMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\BulkCopy\FormPRBCCrossProduct.resx">
+      <DependentUpon>FormPRBCCrossProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\BulkCopy\FormPRBCCrossSystem.resx">
+      <DependentUpon>FormPRBCCrossSystem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\Specification\FormPRSPRLIL.resx">
+      <DependentUpon>FormPRSPRLIL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\FormPRMode.resx">
+      <DependentUpon>FormPRMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\FormPRProfile.resx">
+      <DependentUpon>FormPRProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\Specification\FormPRSPRLILItem.resx">
+      <DependentUpon>FormPRSPRLILItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\FormConnectorSpecDetail.resx">
+      <DependentUpon>FormConnectorSpecDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\FormConnectorSpecMain.resx">
+      <DependentUpon>FormConnectorSpecMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\FormConnectorType.resx">
+      <DependentUpon>FormConnectorType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\FormFiberCableIL.resx">
+      <DependentUpon>FormFiberCableIL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FormUSManager.resx">
+      <DependentUpon>FormUSManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FormUSPrivilege.resx">
+      <DependentUpon>FormUSPrivilege.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Commscope.ico" />
+    <None Include="Resources\ANDREW-logo_400x75.bmp" />
+    <None Include="Resources\ANDREW-logo_250x47.png" />
+    <Content Include="FACTSSpecManager.ico" />
+    <Content Include="Resources\arrow_Down_16xLG.png" />
+    <Content Include="Resources\arrow_Up_16xLG.png" />
+    <Content Include="Resources\exit_32px.png" />
+    <Content Include="Resources\icons8-specification-50.ico" />
+    <Content Include="Resources\icons8-specification-50.png" />
+    <Content Include="Resources\Maintenance.png" />
+    <Content Include="Resources\Save_16x.png" />
+    <Content Include="Resources\VSO_RecycleBin_16x.png" />
+    <None Include="Resources\CommScope.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DB\BLL\BLL.vbproj">
+      <Project>{ac139673-e72d-42cc-99ed-4a4bcb47e596}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DB\DAL\DAL.vbproj">
+      <Project>{a67dcf18-6f64-4e79-9ee1-8e9e912a08de}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DB\Model\Model.vbproj">
+      <Project>{aee9a9e2-523a-462d-a3c0-e62d56502c2a}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\FACTS\trunk\CATSConsoleData\CATSConsoleData.vbproj">
+      <Project>{59907859-0178-42b6-9b4a-611dfb7a6dd8}</Project>
+      <Name>CATSConsoleData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\FACTS\trunk\CATSConsoleModel\CATSConsoleModel.vbproj">
+      <Project>{652fad30-96ce-4bdd-b780-4e35d58f817c}</Project>
+      <Name>CATSConsoleModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

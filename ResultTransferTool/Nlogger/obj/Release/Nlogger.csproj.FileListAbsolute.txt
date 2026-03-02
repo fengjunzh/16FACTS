@@ -1,0 +1,5 @@
+C:\Workspace\Result_Transfer_Tool\Nlogger\bin\Release\Nlogger.dll
+C:\Workspace\Result_Transfer_Tool\Nlogger\bin\Release\Nlogger.pdb
+C:\Workspace\Result_Transfer_Tool\Nlogger\obj\Release\Nlogger.csproj.CoreCompileInputs.cache
+C:\Workspace\Result_Transfer_Tool\Nlogger\obj\Release\Nlogger.dll
+C:\Workspace\Result_Transfer_Tool\Nlogger\obj\Release\Nlogger.pdb

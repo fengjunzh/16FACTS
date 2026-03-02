@@ -1,0 +1,1706 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FACTS.Model
+</name>
+</assembly>
+<members>
+<member name="T:FACTS.Model.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FACTS.Model.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FACTS.Model.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:FACTS.Model.controller.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.controller.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.controller.location">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.controller.owner_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.controller.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.controller.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.controller.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.controller.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.customer.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.customer.cust_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.customer.cust_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.customer.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.emp_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.login_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.permission">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.department">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.pwd">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.user_level">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee_func.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee_func.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.employee_func.func_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.factory.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.factory.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.factory.code">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.factory.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.func_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.func_main.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.func_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.func_main.permission">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.group_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.group_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.message">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.group_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.instr_model_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.serial_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.instr_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.fw_version">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.hw_version">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.entry_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.location">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_main.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_model.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_model.name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_model.model_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_model.start_freq">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_model.stop_freq">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_model.type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.instr_model.instr_vendor_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.meas_phase_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.part_model">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.part_sn">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.part_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.part_hw">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.part_fw">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.part_tilt_min">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.part_tilt_max">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.part_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_assy_part.part_type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.meas_phase_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.meas_group_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.spec_detail_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.meas_value">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.meas_string">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.meas_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.plot_path">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.trace_path">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.test_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.last_test_flag">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_detail.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.meas_phase_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.group_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.group_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.test_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.last_test_flag">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_group.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_instr.meas_phase_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_instr.instr_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_instr.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_instr.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_instr.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.product_sn_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.product_mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.mode">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.start_datetime">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.stop_datetime">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.duration_minute">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.meas_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.meas_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.phase_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.phase">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.phase_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.software_rev">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.controller_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.forced_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.start_datetime">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.stop_datetime">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.conn_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.meas_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.setup_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.total_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.meas_phase.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode.mode">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode.function_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.phase_station_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.default_selection">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_phase_station.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_spec.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_spec.product_mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_spec.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_spec.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_spec.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_spec.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.mode_spec.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_main.phase">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_main.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_main.function_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_main.class_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.phase_station">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.ret_validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.meas_type">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.phase_station_func_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.phase_station_class_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.default_validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.phase_station_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.family_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.class_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.gen4">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_family.gen5">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.action">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.action_descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.date_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.controller_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.stuffer_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.stuffer_version">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_log.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode.mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.product_mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.phase_station_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.default_selection">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_mode_phase_station.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_sn.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_sn.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_sn.product_serial_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_sn.register_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_sn.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_sn.sn_status_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_sn.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_sn.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_sn.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.wo_descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.wo_status">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.register_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo_sn.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo_sn.product_wo_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo_sn.product_sn_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo_sn.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo_sn.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo_sn.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo_sn.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo_sn.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.product_wo_sn.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.group_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.order_idx">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.meas_item">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.limit_low">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.limit_up">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.limit_string">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.limit_unit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.cust_limit_low">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.cust_limit_up">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.cust_limit_unit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.cust_limit_string">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.meas_required">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.message">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.invalidation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_detail.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.product_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.mode_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.spec_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.phase_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.action">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.action_descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.date_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.employee_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.controller_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.factory_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_log.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.phase_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.only_test">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.manual_enable">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.allow_cust_limit">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.script">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.invalidate_phase_ids">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.spec_desc">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.spec_revision">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.spec_version">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.change_note">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.validation_date">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.spec_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.test_cable_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.product_serial_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.phase_main_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.controller_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.login_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.factory">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.test_count">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.date_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_detail.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_main.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_main.cable_model_id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_main.cable_serial_num">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_main.test_count">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_main.register_date_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_main.descr">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_main.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_main.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_main.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_model.id">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_model.model_name">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_model.tolerant_count">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_model.validity">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_model.validation">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_model.date_time">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_model.gen1">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_model.gen2">
+ <summary>
+ id
+ </summary>
+</member>
+<member name="P:FACTS.Model.test_cable_model.gen3">
+ <summary>
+ id
+ </summary>
+</member>
+</members>
+</doc>

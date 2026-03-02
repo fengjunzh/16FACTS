@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FACTSSetup", "FACTSSetup\FACTSSetup.vdproj", "{6CB8A0EC-8F9C-48F9-A184-AF2273E6A037}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FACTSEntry", "FACTSEntry\FACTSEntry.vbproj", "{7C1DF7A4-0FB9-4ACA-A88C-5422803DCF7E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FACTSEntryUpdate", "FACTSEntryUpdate\FACTSEntryUpdate.vbproj", "{F0817BDE-A2E9-4587-9488-18B5BF93502F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB8A0EC-8F9C-48F9-A184-AF2273E6A037}.Debug|x86.ActiveCfg = Debug
+		{6CB8A0EC-8F9C-48F9-A184-AF2273E6A037}.Release|x86.ActiveCfg = Release
+		{7C1DF7A4-0FB9-4ACA-A88C-5422803DCF7E}.Debug|x86.ActiveCfg = Debug|x86
+		{7C1DF7A4-0FB9-4ACA-A88C-5422803DCF7E}.Debug|x86.Build.0 = Debug|x86
+		{7C1DF7A4-0FB9-4ACA-A88C-5422803DCF7E}.Release|x86.ActiveCfg = Release|x86
+		{7C1DF7A4-0FB9-4ACA-A88C-5422803DCF7E}.Release|x86.Build.0 = Release|x86
+		{F0817BDE-A2E9-4587-9488-18B5BF93502F}.Debug|x86.ActiveCfg = Debug|x86
+		{F0817BDE-A2E9-4587-9488-18B5BF93502F}.Debug|x86.Build.0 = Debug|x86
+		{F0817BDE-A2E9-4587-9488-18B5BF93502F}.Release|x86.ActiveCfg = Release|x86
+		{F0817BDE-A2E9-4587-9488-18B5BF93502F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E19565E-2EC7-48C5-8DE5-FA9283BBF0B6}
+	EndGlobalSection
+EndGlobal

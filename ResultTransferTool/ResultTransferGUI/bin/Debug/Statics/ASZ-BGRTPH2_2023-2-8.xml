@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <PcName>ASZ-BGRTPH2</PcName>
+  <UpdateDate>02/08/2023 10:24:15</UpdateDate>
+  <Success>
+    <file name="HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat" timeCost="2.7970431" />
+  </Success>
+  <Failure>
+    <file name="HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat" errorMessage="Invalid object name 'meas_detail_extend'." />
+    <file name="HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat" errorMessage="instr_model.BLL.AddReturnId()::instr_model.DAL.AddReturnId()::RunProcedure()::Could not find stored procedure 'proc_instr_model_Add'." />
+    <file name="HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat" errorMessage="meas_instr.BLL.Add()::meas_instr.DAL.Add()::RunProcedure()::Could not find stored procedure 'proc_meas_instr_Add'." />
+  </Failure>
+</Root>

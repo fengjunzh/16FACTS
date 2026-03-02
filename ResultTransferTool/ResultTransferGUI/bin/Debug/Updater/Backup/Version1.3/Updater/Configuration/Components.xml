@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Connection>
+    <Server>\\sdcnas01\sts_cats\APP_Fiber\FACTSResultTransferTool</Server>
+    <VersionSubFolder>Version1.3</VersionSubFolder>
+    <CallerProcessName>ResultTransferGUI</CallerProcessName>
+  </Connection>
+  <Components>
+    <Component>
+      <Source>FACTS.BLL.dll</Source>
+      <Target>..\CATS.BLL.dll</Target>
+    </Component>
+    <Component>
+      <Source>FACTS.DAL.dll</Source>
+      <Target>..\CATS.DAL.dll</Target>
+    </Component>
+    <Component>
+      <Source>FACTS.Model.dll</Source>
+      <Target>..\CATS.Model.dll</Target>
+    </Component>
+    <Component>
+      <Source>Encryptor.dll</Source>
+      <Target>..\Encryptor.dll</Target>
+    </Component>
+    <Component>
+      <Source>Nlogger.dll</Source>
+      <Target>..\Nlogger.dll</Target>
+    </Component>
+    <Component>
+      <Source>ResultTransferTool.dll</Source>
+      <Target>..\ResultTransferTool.dll</Target>
+    </Component>
+    <Component>
+      <Source>ResultTransferGUI.exe</Source>
+      <Target>..\ResultTransferGUI.exe</Target>
+    </Component>
+    <Component>
+      <Source>ProcessCheck.dll</Source>
+      <Target>..\ProcessCheck.dll</Target>
+    </Component>
+    <Component>
+      <Source>ProcessCheckHost.exe</Source>
+      <Target>..\ProcessCheckHost.exe</Target>
+    </Component>
+  </Components>
+</Root>

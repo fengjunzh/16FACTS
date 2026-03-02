@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1764DD2F-E644-41F8-AE62-9950A19703F0}|FACTSSpecManager\\FACTSSpecManager.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\factsspecmanager\\product\\specification\\formprsprlil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1764DD2F-E644-41F8-AE62-9950A19703F0}|FACTSSpecManager\\FACTSSpecManager.vbproj|solutionrelative:factsspecmanager\\product\\specification\\formprsprlil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764DD2F-E644-41F8-AE62-9950A19703F0}|FACTSSpecManager\\FACTSSpecManager.vbproj|c:\\users\\fenzhang\\onedrive - andrew\\documents\\01cats\\16facts\\factsspecmanager\\trunk\\factsspecmanager\\product\\specification\\formprsprlil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1764DD2F-E644-41F8-AE62-9950A19703F0}|FACTSSpecManager\\FACTSSpecManager.vbproj|solutionrelative:factsspecmanager\\product\\specification\\formprsprlil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67DCF18-6F64-4E79-9EE1-8E9E912A08DE}|..\\..\\DB\\DAL\\DAL.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\db\\dal\\length_limitservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE9A9E2-523A-462D-A3C0-E62D56502C2A}|..\\..\\DB\\Model\\Model.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\db\\model\\length_limit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764DD2F-E644-41F8-AE62-9950A19703F0}|FACTSSpecManager\\FACTSSpecManager.vbproj|C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\factsspecmanager\\product\\specification\\formprsprlilitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1764DD2F-E644-41F8-AE62-9950A19703F0}|FACTSSpecManager\\FACTSSpecManager.vbproj|solutionrelative:factsspecmanager\\product\\specification\\formprsprlilitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "length_limitService.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\DB\\DAL\\length_limitService.vb",
+              "RelativeDocumentMoniker": "..\\..\\DB\\DAL\\length_limitService.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\DB\\DAL\\length_limitService.vb",
+              "RelativeToolTip": "..\\..\\DB\\DAL\\length_limitService.vb",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T00:07:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "length_limit.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\DB\\Model\\length_limit.vb",
+              "RelativeDocumentMoniker": "..\\..\\DB\\Model\\length_limit.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\DB\\Model\\length_limit.vb",
+              "RelativeToolTip": "..\\..\\DB\\Model\\length_limit.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T00:07:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPRSPRLIL.vb",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\FACTSSpecManager\\Product\\Specification\\FormPRSPRLIL.vb",
+              "RelativeDocumentMoniker": "FACTSSpecManager\\Product\\Specification\\FormPRSPRLIL.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\FACTSSpecManager\\Product\\Specification\\FormPRSPRLIL.vb*",
+              "RelativeToolTip": "FACTSSpecManager\\Product\\Specification\\FormPRSPRLIL.vb*",
+              "ViewState": "AgIAAHoEAAAAAAAAAAD4v4AEAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T00:07:05.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPRSPRLIL.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\FACTSSpecManager\\Product\\Specification\\FormPRSPRLIL.vb",
+              "RelativeDocumentMoniker": "FACTSSpecManager\\Product\\Specification\\FormPRSPRLIL.vb",
+              "ToolTip": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\FACTSSpecManager\\Product\\Specification\\FormPRSPRLIL.vb [Design]*",
+              "RelativeToolTip": "FACTSSpecManager\\Product\\Specification\\FormPRSPRLIL.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T00:07:05.385Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPRSPRLILItem.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FENZHANG\\OneDrive - Andrew\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\FACTSSpecManager\\Product\\Specification\\FormPRSPRLILItem.vb",
+              "RelativeDocumentMoniker": "FACTSSpecManager\\Product\\Specification\\FormPRSPRLILItem.vb",
+              "ToolTip": "C:\\Users\\fenzhang\\OneDrive - CommScope\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\FACTSSpecManager\\Product\\Specification\\FormPRSPRLILItem.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive - CommScope\\Documents\\01CATS\\16FACTS\\FACTSSpecManager\\trunk\\FACTSSpecManager\\Product\\Specification\\FormPRSPRLILItem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-09-10T00:07:05.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

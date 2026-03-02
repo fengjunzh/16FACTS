@@ -1,0 +1,25 @@
+Trace start......
+2/8/2023 10:16:19 AM: GUI [Info] -> Result folder is C:\Commscope\FACTS\TestData\.
+2/8/2023 10:16:19 AM: GUI [Info] -> Enable Insert SN
+2/8/2023 10:16:22 AM: GUI [Info] -> Local version is 1.1.
+2/8/2023 10:16:25 AM: GUI [Info] -> Server version is 1.1.
+2/8/2023 10:16:31 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+2/8/2023 10:16:35 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+2/8/2023 10:16:35 AM: SQL Controller [Info] -> Start to transfer file HFE806M-16M4E-5M!20230208083252!DOE!HFE806M-16M4E-5M!System.dat
+2/8/2023 10:16:35 AM: SQL [Info] -> Step: ReadResultsFromFile
+2/8/2023 10:16:37 AM: Controller [Warn] -> Can't find element (AssyParts/Part) in result xml file.
+2/8/2023 10:16:39 AM: Controller [Warn] -> Can't find element (PhaseExtendCable) in result xml file.
+2/8/2023 10:16:39 AM: SQL [Info] -> Step: CheckSn
+2/8/2023 10:16:39 AM: SQL [Info] -> SN already in DB. Skip to insert this one.
+2/8/2023 10:16:39 AM: SQL [Info] -> Step: CheckWorkOrder
+2/8/2023 10:17:02 AM: SQL [Info] -> Step: CheckMeasMain
+2/8/2023 10:17:02 AM: SQL [Info] -> Step: UpdateMeasMain
+2/8/2023 10:17:02 AM: SQL [Info] -> Step: CheckTesterInfo
+2/8/2023 10:17:02 AM: SQL [Info] -> Step: CheckMeasPhase
+2/8/2023 10:17:02 AM: SQL [Info] -> Step: CheckAssyParts
+2/8/2023 10:17:02 AM: SQL [Info] -> Step: CheckMeasGroup
+2/8/2023 10:17:02 AM: SQL [Info] -> Step: CheckMeasDetail
+2/8/2023 10:17:02 AM: SQL [Info] -> Step: CheckMeasCriteria
+2/8/2023 10:17:02 AM: SQL [Info] -> Step: CheckMeasExtend
+2/8/2023 10:17:02 AM: SQL [Info] -> Time cost: 23.2825268
+2/8/2023 10:17:02 AM: SQL Controller [Info] -> Write failure static item

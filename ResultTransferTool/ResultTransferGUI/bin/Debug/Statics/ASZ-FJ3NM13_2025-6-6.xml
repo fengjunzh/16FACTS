@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <PcName>ASZ-FJ3NM13</PcName>
+  <UpdateDate>06/06/2025 09:21:06</UpdateDate>
+  <Success>
+    <file name="25CN19999999!20250606083654!DOE!FJ-02TAADDB-003M!System.dat" timeCost="38.7570658" />
+    <file name="25CN19999999!20250606083654!DOE!FJ-02TAADDB-003M!System.dat" timeCost="1.0385647999999998" />
+    <file name="25CN19999999!20250606083654!DOE!FJ-02TAADDB-003M!System.dat" timeCost="2.7376647" />
+    <file name="25CN109999999!20250606090258!DOE!FJ-02TAADDB-003M!System.dat" timeCost="0.99516209999999994" />
+    <file name="25CN109999999!20250606090513!DOE!FJ-02TAADDB-003M!System.dat" timeCost="0.89856799999999992" />
+    <file name="25CN109999999!20250606091816!DOE!FJ-02TAADDB-003M!System.dat" timeCost="2.5748044" />
+    <file name="25CN109999999!20250606092046!DOE!FJ-02TAADDB-003M!System.dat" timeCost="0.8233961" />
+  </Success>
+  <Failure />
+</Root>

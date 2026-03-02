@@ -1,0 +1,5 @@
+Trace start......
+8/23/2022 10:15:50 AM: GUI [Info] -> Result folder is C:\Users\fenzhang\OneDrive - CommScope\Documents\01CATS\15SFP\SFP_Fiber\SFP_Fiber_Test\SFP_Fiber_Test\bin\Debug\TestData\.
+8/23/2022 10:15:50 AM: GUI [Info] -> Enable Insert SN
+8/23/2022 10:15:51 AM: GUI [Info] -> Local version is 5.9.
+8/23/2022 10:15:51 AM: GUI [Info] -> Server version is 5.9.

@@ -1,0 +1,5 @@
+﻿Imports System.Xml.Serialization
+Public Class cq_product_mode_phase_station
+	Public M_product_mode_phase_station As New product_mode_phase_station
+	Public M_phase_station_main As New phase_station_main
+End Class
